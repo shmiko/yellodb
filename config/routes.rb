@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :favorites
   resources :votes
   resources :users
   resources :artists

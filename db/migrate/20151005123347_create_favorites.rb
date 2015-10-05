@@ -1,10 +1,8 @@
 class CreateFavorites < ActiveRecord::Migration
-  def self.up
+  def change
     create_table :favorites do |t|
-    end
-  end
 
-  def self.down
-    drop_table :favorites
+      t.timestamps null: false
+    end
   end
 end
