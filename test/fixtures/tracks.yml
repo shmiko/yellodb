@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  artist_id: 
+  track_base_id: 
+  length: MyString
+  purchase_date: 2015-10-05
+
+two:
+  title: MyString
+  artist_id: 
+  track_base_id: 
+  length: MyString
+  purchase_date: 2015-10-05
