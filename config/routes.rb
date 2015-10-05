@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :users
   resources :artists
   resources :genres
   resources :tracks
