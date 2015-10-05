@@ -11,13 +11,44 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151005005512) do
+ActiveRecord::Schema.define(version: 9) do
 
-  create_table "posts", force: :cascade do |t|
+  create_table "bookmarks", force: :cascade do |t|
+    t.string   "title",             limit: 50, default: ""
+    t.datetime "created_at",                                null: false
+    t.string   "bookmarkable_type", limit: 15, default: "", null: false
+    t.integer  "bookmarkable_id",              default: 0,  null: false
+    t.integer  "user_id",                      default: 0,  null: false
+  end
+
+  add_index "bookmarks", ["user_id"], name: "fk_bookmarks_user"
+
+  create_table "favorites", force: :cascade do |t|
+  end
+
+  create_table "tracks", force: :cascade do |t|
     t.string   "title"
-    t.text     "body"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.integer  "artist_id"
+    t.integer  "track_base_id"
+    t.string   "length"
+    t.date     "purchase_date"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.string   "content_type",  default: "image/png"
+    t.binary   "picture"
+    t.integer  "user_id"
+    t.string   "permalink"
+  end
+
+  create_table "users", force: :cascade do |t|
+    t.string "login"
+    t.string "password"
+    t.string "email"
+  end
+
+  create_table "votes", force: :cascade do |t|
+    t.integer  "story_id"
+    t.datetime "created_at"
   end
 
 end
