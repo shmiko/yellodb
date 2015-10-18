@@ -1579,54 +1579,175 @@ r_track_remixers INNER JOIN r_tracks ON r_tracks.track_id = r_track_remixers.tra
 
 SELECT * From
 r_tracks
+//returns 9 rows
 
+SELECT * From
+r_track_base_names
+//returns 26 rows
+
+SELECT * From
+r_track_remixers
+//returns 4 rows
+
+SELECT * FROM
+r_lyrics
+// RETURNS 2 rows
+
+SELECT * FROM
+r_bands
+// RETURNS 27 rows
+
+SELECT * FROM
+r_band_members
+// RETURNS 8 rows
+
+
+INSERT INTO
+r_album_tracks
+VALUES(2,1,26)
+
+SELECT * FROM
+r_album_tracks
+// RETURNS 2 rows
+
+SELECT * FROM
+r_albums
+// RETURNS 2 rows
+
+
+SELECT * FROM
+r_album_bands
+// RETURNS 1 rows
+
+SELECT * FROM
+r_persons
+// RETURNS 10 rows
+
+
+SELECT * FROM
+r_addresses
+// RETURNS 3 rows
 
 SELECT * From
 r_track_remixers RIGHT OUTER JOIN r_tracks ON r_tracks.track_id = r_track_remixers.track_id
 
 
-GOOD
+GOOD to get every record
 SELECT * From
 r_track_base_names INNER JOIN r_tracks ON r_tracks.track_base_name_id = r_track_base_names.track_base_name_id
 LEFT OUTER JOIN r_lyrics ON r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
 LEFT OUTER JOIN r_track_remixers ON r_tracks.track_id = r_track_remixers.track_id
+LEFT OUTER JOIN r_bands ON r_bands.band_id = r_tracks.band_id
+LEFT OUTER JOIN r_band_members ON r_band_members.band_id = r_bands.band_id
+LEFT OUTER JOIN r_album_tracks ON r_album_tracks.track_id = r_tracks.track_id
+LEFT OUTER JOIN r_albums ON r_albums.album_id = r_album_tracks.album_id
+LEFt OUTER JOIN r_album_bands ON r_album_bands.album_id = r_albums.album_id
+LEFT OUTER JOIN r_persons ON r_persons.person_id = r_band_members.person_id
+LEFT OUTER JOIN r_addresses on r_addresses.address_id = r_persons.person_address_id
+//returns 33 rows
+
+
+SELECT * From
+r_track_base_names 
+INNER JOIN r_tracks ON r_tracks.track_base_name_id = r_track_base_names.track_base_name_id
+LEFT OUTER JOIN r_lyrics ON r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
+LEFT OUTER JOIN r_track_remixers ON r_tracks.track_id = r_track_remixers.track_id
+LEFT OUTER JOIN r_bands ON r_bands.band_id = r_tracks.band_id
+LEFT OUTER JOIN r_band_members ON r_band_members.band_id = r_bands.band_id
+LEFT OUTER JOIN r_album_tracks ON r_album_tracks.track_id = r_tracks.track_id
+LEFT OUTER JOIN r_albums ON r_albums.album_id = r_album_tracks.album_id
+LEFt OUTER JOIN r_album_bands ON r_album_bands.album_id = r_albums.album_id
+LEFT OUTER JOIN r_persons ON r_persons.person_id = r_band_members.person_id
+LEFT OUTER JOIN r_addresses on r_addresses.address_id = r_persons.person_address_id
+//returns 57 rows 
+
+
+
+GOOD to get every record
+NOW LIMIT FIELDS
+SELECT album_base_name_id,album_real_name,album_country_of_relase,album_country_of_pressing,album_release_date,album_lc,album_pg,album_biem_stemra,album_record_number_spine,album_record_number_other,album_record_company,album_promo,album_format_id,album_rarity,album_number_of_pressings,album_nr_of_tracks,album_liner_notes From
+r_track_base_names INNER JOIN r_tracks ON r_tracks.track_base_name_id = r_track_base_names.track_base_name_id
+LEFT OUTER JOIN r_lyrics ON r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
+LEFT OUTER JOIN r_track_remixers ON r_tracks.track_id = r_track_remixers.track_id
+LEFT OUTER JOIN r_bands ON r_bands.band_id = r_tracks.band_id
+LEFT OUTER JOIN r_band_members ON r_band_members.band_id = r_bands.band_id
+LEFT OUTER JOIN r_album_tracks ON r_album_tracks.track_id = r_tracks.track_id
+LEFT OUTER JOIN r_albums ON r_albums.album_id = r_album_tracks.album_id
+LEFt OUTER JOIN r_album_bands ON r_album_bands.album_id = r_albums.album_id
+LEFT OUTER JOIN r_persons ON r_persons.person_id = r_band_members.person_id
+LEFT OUTER JOIN r_addresses on r_addresses.address_id = r_persons.person_address_id
+//returns 33 rows
+
+Fields
+band_name,base_name,track_real_name,track_length,track_version,track_work_done,person_surname,person_first_name,person_birthdate,person_nationality,person_address_id,person_email,person_website,enter_band,leave_band,address_street,address_city,address_state ,address_zip ,address_country,
+lyrics,band_created,band_split,band_style,band_photo,band_website,
+
+GOOD to get every record
+NOW LIMIT FIELDS
+SELECT album_real_name,album_country_of_relase,album_country_of_pressing,album_release_date,album_lc,album_pg,album_biem_stemra,album_record_number_spine,album_record_number_other,album_record_company,album_promo,album_format_id,album_rarity,album_number_of_pressings,album_nr_of_tracks,album_liner_notes From
+r_track_base_names INNER JOIN r_tracks ON r_tracks.track_base_name_id = r_track_base_names.track_base_name_id
+INNER JOIN r_track_remixers ON r_tracks.track_id = r_track_remixers.track_id
+INNER JOIN r_band_members ON r_band_members.band_id = r_bands.band_id
+INNER JOIN r_album_tracks ON r_album_tracks.track_id = r_tracks.track_id
+INNER JOIN r_albums ON r_albums.album_id = r_album_tracks.album_id
+INNER JOIN r_album_bands ON r_album_bands.album_id = r_albums.album_id
+INNER JOIN r_persons ON r_persons.person_id = r_band_members.person_id
+INNER JOIN r_addresses on r_addresses.address_id = r_persons.person_address_id
+//returns 33 rows
 
 
 
 
 
+SELECT * From
+r_track_base_names INNER JOIN r_tracks ON r_tracks.track_base_name_id = r_track_base_names.track_base_name_id
+LEFT OUTER JOIN r_lyrics ON r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
+INNER JOIN r_bands ON r_bands.band_id = r_tracks.band_id
+//returns 9 rows same as all tracks
+
+
+
+SELECT * From
+r_tracks INNER JOIN r_track_base_names ON r_track_base_names.track_base_name_id = r_tracks.track_base_name_id
+RIGHT OUTER JOIN r_lyrics ON r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
+INNER JOIN r_bands ON r_bands.band_id = r_tracks.band_id
+FULL OUTER JOIN r_band_members ON r_band_members.band_id = r_bands.band_id
+WHERE base_name IS NOT NULL
+
+
+SELECT * From
+r_tracks INNER JOIN r_track_base_names ON r_track_base_names.track_base_name_id = r_tracks.track_base_name_id
+LEFT OUTER JOIN r_lyrics ON r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
+INNER JOIN r_bands ON r_bands.band_id = r_tracks.band_id
+//RETURNS 9
+
+
+
+SELECT band_name,enter_band,leave_band  From
+r_tracks
+INNER JOIN r_bands ON r_bands.band_id = r_tracks.band_id 
 
 
 
 
+LEFT OUTER JOIN r_band_members ON r_band_members.band_id = r_tracks.band_id 
+
+unique
+SELECT *  From
+r_tracks
+LEFT OUTER JOIN r_bands ON r_bands.band_id = r_tracks.band_id 
+RIGHT OUTER  JOIN r_track_remixers ON r_tracks.track_id = r_track_remixers.track_id
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+SELECT album_base_name_id,album_real_name,album_country_of_relase,album_country_of_pressing,album_release_date,album_lc,album_pg,album_biem_stemra,album_record_number_spine,album_record_number_other,album_record_company,album_promo,album_format_id,album_rarity,album_number_of_pressings,album_nr_of_tracks,album_liner_notes From
+r_track_base_names INNER JOIN r_tracks ON r_tracks.track_base_name_id = r_track_base_names.track_base_name_id
+LEFT OUTER JOIN r_lyrics ON r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
+LEFT OUTER JOIN r_track_remixers ON r_tracks.track_id = r_track_remixers.track_id
+LEFT OUTER JOIN r_bands ON r_bands.band_id = r_tracks.band_id
+LEFT OUTER JOIN r_band_members ON r_band_members.band_id = r_bands.band_id
+LEFT OUTER JOIN r_album_tracks ON r_album_tracks.track_id = r_tracks.track_id
+RIGHT OUTER JOIN r_albums ON r_albums.album_id = r_album_tracks.album_id
+LEFt OUTER JOIN r_album_bands ON r_album_bands.album_id = r_albums.album_id
+LEFT OUTER JOIN r_persons ON r_persons.person_id = r_band_members.person_id
+LEFT OUTER JOIN r_addresses on r_addresses.address_id = r_persons.person_address_id
+//returns 7 rows
