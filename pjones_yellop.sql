@@ -1753,7 +1753,7 @@ LEFT OUTER JOIN r_persons ON r_persons.person_id = r_band_members.person_id
 LEFT OUTER JOIN r_addresses on r_addresses.address_id = r_persons.person_address_id
 //returns 7 rows
 
-
+//this works
 SELECT --band_name
 --,
 base_name,track_real_name,track_length,track_version,track_work_done
