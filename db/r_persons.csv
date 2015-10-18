@@ -1,0 +1,12 @@
+"person_id","person_surname","person_first_name","person_birthdate","person_nationality","person_address_id","person_email","person_website"
+"1","Jones","Paul","1970-09-03","Australian","3","pjones@bettercut.com.au","http://www.shmik.com"
+"2","Ackermann","Raphael","1978-11-28","Swiss","1","raphy@student.ethz.ch","http:www.n.ethz.ch/student/acraphae/"
+"3","Blank","Boris",NULL,"Swiss",NULL,NULL,NULL
+"4","Meier","Dieter",NULL,"Swiss","2",NULL,NULL
+"5","Peron","Carlos",NULL,NULL,NULL,NULL,"http://carlosperon.de/"
+"6","Mackenzie","Billy",NULL,"Scottish",NULL,NULL,NULL
+"7","Rankine","Alan",NULL,"Scottish",NULL,NULL,NULL
+"8","Dakeyne","Paul",NULL,NULL,NULL,NULL,NULL
+"9","Bormann","Robert",NULL,"German",NULL,NULL,NULL
+"10","Brückner","Thomas",NULL,"German",NULL,NULL,"http://www.tomcraft.de/"
+"11","Kovalsky","Julian","1970-05-04","Russian","4","julz@mac.com","www.theyellosite.com"

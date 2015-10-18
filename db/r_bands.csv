@@ -1,0 +1,28 @@
+"band_id","band_name","band_created","band_split","band_style","band_photo","band_website"
+"1","Yello","1980-00-00",NULL,"Electronica/Dance/Ambient","assetts/bands/yelloband.jpg","http://www.yello.ch"
+"2","Associates","1981-00-00","1992-00-00","Alternative","assetts/bands/billymackenzie.jpg",NULL
+"4","Billy Mackenzie",NULL,NULL,"Alternative","assetts/bands/billymackenzie.jpg",NULL
+"5","Blank & Jones",NULL,NULL,"Dance","assetts/bands/nopicavailable_band.jpg",NULL
+"6","Boris Blank",NULL,NULL,"Rock","assetts/bands/boris.jpg",NULL
+"7","CARL COX",NULL,NULL,"Dance","assetts/bands/nopicavailable_band.jpg",NULL
+"8","Carlos Peron",NULL,NULL,"Alternative","assetts/bands/nopicavailable_band.jpg","http://carlosperon.de/"
+"9","Chico Hablas",NULL,NULL,"Guitar","assetts/bands/nopicavailable_band.jpg",NULL
+"10","Crawdad Stare",NULL,NULL,NULL,"assetts/bands/nopicavailable_band.jpg",NULL
+"11","Dieter Meier","1978-00-00",NULL,"Electronica/Dance/Ambient","assetts/bands/nopicavailable_band.jpg",NULL
+"12","Dog House Rules",NULL,NULL,NULL,"assetts/bands/nopicavailable_band.jpg",NULL
+"13","Funky Junction vs. Yello",NULL,NULL,"Dance","assetts/bands/nopicavailable_band.jpg",NULL
+"14","Fresh Color",NULL,NULL,"Punk","assetts/bands/nopicavailable_band.jpg",NULL
+"15","Mary Saveley",NULL,NULL,NULL,"assetts/bands/nopicavailable_band.jpg",NULL
+"16","Mothmen/ Yello",NULL,NULL,NULL,"assetts/bands/nopicavailable_band.jpg",NULL
+"17","Nasal Boys",NULL,NULL,"Punk","assetts/bands/dieter.jpg",NULL
+"18","Stina Nordenstam",NULL,NULL,"Dance?","assetts/bands/nopicavailable_band.jpg",NULL
+"19","The Popular Mechanics",NULL,NULL,NULL,"assetts/bands/nopicavailable_band.jpg",NULL
+"20","Tube & Berger",NULL,NULL,"Dance","assetts/bands/nopicavailable_band.jpg",NULL
+"21","Various Artists",NULL,NULL,NULL,"assetts/bands/nopicavailable_band.jpg",NULL
+"22","X-Press 2",NULL,NULL,"Dance","assetts/bands/nopicavailable_band.jpg",NULL
+"23","DJ Tomcraft","1996-00-00",NULL,"Dance","assetts/bands/nopicavailable_band.jpg","http://www.tomcraft.de/"
+"24","Com & Com",NULL,NULL,NULL,"assetts/bands/nopicavailable_band.jpg",NULL
+"25","Westbam",NULL,NULL,"Dance","assetts/bands/nopicavailable_band.jpg",NULL
+"26","Plutones",NULL,NULL,"Dance","assetts/bands/nopicavailable_band.jpg",NULL
+"27","Jam & Spoon",NULL,NULL,"Dance","assetts/bands/nopicavailable_band.jpg",NULL
+"28","Eniac",NULL,NULL,NULL,NULL,NULL

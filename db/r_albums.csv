@@ -1,0 +1,3 @@
+"album_id","album_base_name_id","album_real_name","album_country_of_relase","album_country_of_pressing","album_release_date","album_lc","album_pg","album_biem_stemra","album_record_number_spine","album_record_number_other","album_record_company","album_promo","album_format_id","album_rarity","album_number_of_pressings","album_nr_of_tracks","album_liner_notes"
+"1","1","1980 – 1985  The New Mix in One Go","Australia",NULL,"1986-00-00",NULL,NULL,NULL,NULL,"826 773-4","Polygram","no",NULL,NULL,NULL,NULL,NULL
+"2","0","Flag","Germany","Germany","1988-00-00","0268","581","BIEM/ STEMRA","836 778-4","836 778-4","Mercury","no",NULL,NULL,NULL,"8",NULL

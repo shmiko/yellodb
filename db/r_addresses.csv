@@ -1,0 +1,5 @@
+"address_id","address_street","address_city","address_state","address_zip","address_country"
+"1","Flat 2/2 18 Ratho Drive","Glasgow",NULL,"G21 1NA","United Kingdom"
+"2",NULL,"Los Angeles","California",NULL,"U.S.A"
+"3","10 Castlereagh Street","Riverstone","New South Wales","2765","Australia"
+"4","146 Mechanic Street","Redbank","New Jersey","07701","USA"

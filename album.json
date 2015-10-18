@@ -1,0 +1,14 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'yello'
+
+// yello.album
+
+[{"AlbumID":"1","AlbumName":"The Helen Lundy Trio","ArtistID":"1","AlbumPrice":"16","AlbumNotes":"Stellar performances and driving beat make this album a must for all Macromusica fans and collectors. Featuring Color Combination; Margot, Margaux, Margot; Lovely But Unlikely; La Rondalla; Concrete Jungle; Exit Gilman Street; Big Fives; Mysterious Disappearances; Patiently Waiting; I Believe Down Where You Are; Next.","AlbumCatalogNumber":"10001","AlbumAvailable":"1","AlbumCoverURL":"assets_bands_HLT_blackcover.jpg","AlbumCoverThumbnailURL":"assets_bands_HLT_blackcover_thumbnail.jpg"},
+ {"AlbumID":"2","AlbumName":"Have you seen Tintin?","ArtistID":"2","AlbumPrice":"16","AlbumNotes":"Experimental music that challenges the mind and the ear.","AlbumCatalogNumber":"10002","AlbumAvailable":"1","AlbumCoverURL":"assets_bands_YL_hyst.jpg","AlbumCoverThumbnailURL":"assets_bands_YL_hyst_thumbnail.jpg"},
+ {"AlbumID":"4","AlbumName":"MX","ArtistID":"8","AlbumPrice":"18","AlbumNotes":"Software isn't the only thing these engineer types produce. 12 Dreamweaver inspired songs developed along with the software.<br><br>The feelgood CD of the season?","AlbumCatalogNumber":"10003","AlbumAvailable":"1","AlbumCoverURL":"assets_bands_UB_cover.jpg","AlbumCoverThumbnailURL":"assets_bands_UB_thumbnail.jpg"},
+ {"AlbumID":"5","AlbumName":"Call out the Cavalry","ArtistID":"7","AlbumPrice":"19","AlbumNotes":"These guys talk a lot of smack, the friendly website visitor says to themself, I wonder what they sound like?","AlbumCatalogNumber":"10004","AlbumAvailable":"1","AlbumCoverURL":"assets_bands_LS_cover.JPG","AlbumCoverThumbnailURL":"assets_bands_LS_thumbnail.JPG"},
+ {"AlbumID":"6","AlbumName":"The Road Less Traveled","ArtistID":"5","AlbumPrice":"19","AlbumNotes":"","AlbumCatalogNumber":"10005","AlbumAvailable":"1","AlbumCoverURL":"assets_bands_JAENUS_cover.jpg","AlbumCoverThumbnailURL":"assets_bands_JAENUS_thumbnail.jpg"}]
