@@ -391,13 +391,3 @@ CREATE TABLE year_base (
   Year varchar(255) default NULL,
   ID int default NULL
 ) ;
-
-
-queries
-
-SELECT * From
-r_tracks,r_track_base_names--,r_lyrics--,r_bands,r_band_members,r_albums,r_album_tracks,r_album_bands,r_addresses,r_persons
-Where
- r_track_base_names.track_base_name_id = r_tracks.track_base_name_id
---AND r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
-

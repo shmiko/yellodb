@@ -1529,6 +1529,16 @@ INSERT INTO recordings VALUES (' YELLO       ', ' ZEBRA PROMO                   
 INSERT INTO recordings VALUES (' YELLO       ', 'test', NULL, '56767', ' RUSSIA      ', 2000, NULL, ' LP            ', ' 2X           ', 'fgdgdfgdfhhh', 1268, NULL, NULL, NULL, NULL, '', '', '', '', '', '', '', '', '', '', NULL, '', '', '');
 INSERT INTO recordings VALUES (' YELLO       ', 'dsfsdffdf', NULL, '343443', ' GERMANY     ', 1982, NULL, ' ALBUM         ', ' LP           ', 'dsg', 1269, NULL, NULL, NULL, NULL, '', '', '', '', '', '', '', '', '', '', NULL, '', '', '');
 
+
+queries
+
+SELECT * From
+r_tracks,r_track_base_names--,r_lyrics--,r_bands,r_band_members,r_albums,r_album_tracks,r_album_bands,r_addresses,r_persons
+Where
+ r_track_base_names.track_base_name_id = r_tracks.track_base_name_id
+--AND r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
+
+
 SELECT * From
 r_tracks,r_track_remixers,r_track_base_names,r_persons,r_lyrics,r_bands,r_band_members,r_albums,r_album_tracks,r_album_bands,r_addresses
 Where
@@ -1553,5 +1563,70 @@ Where r_track_base_names.track_base_name_id = r_tracks.track_base_name_id
 SELECT * From
 r_tracks,r_track_base_names
 Where r_track_base_names.track_base_name_id = r_tracks.track_base_name_id
+
+SELECT * From
+r_tracks,r_track_base_names 
+LEFT OUTER JOIN r_lyrics ON r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
+RIGHT OUTER JOIN r_track_remixers ON r_track_remixers.track_id = r_tracks.track_id
+Where r_track_base_names.track_base_name_id = r_tracks.track_base_name_id
+
+
+
+SELECT * From
+r_track_remixers INNER JOIN r_tracks ON r_tracks.track_id = r_track_remixers.track_id
+
+
+
+SELECT * From
+r_tracks
+
+
+SELECT * From
+r_track_remixers RIGHT OUTER JOIN r_tracks ON r_tracks.track_id = r_track_remixers.track_id
+
+
+GOOD
+SELECT * From
+r_track_base_names INNER JOIN r_tracks ON r_tracks.track_base_name_id = r_track_base_names.track_base_name_id
+LEFT OUTER JOIN r_lyrics ON r_lyrics.track_base_name_id = r_track_base_names.track_base_name_id
+LEFT OUTER JOIN r_track_remixers ON r_tracks.track_id = r_track_remixers.track_id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
