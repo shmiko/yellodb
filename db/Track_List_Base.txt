@@ -1,0 +1,1620 @@
+INSERT INTO track_list_base ('Tracklist short','ID') VALUES
+('nothing',1),(
+'      THE STONE ROSES I wanna be adored
+
+      IGGY POP nazi girlfriend
+
+      JONATHAN RICHMAN & THE MODERN LOVERS she cracked
+
+      MARK LANEGAN shiloh town
+
+      THE MAKE UP white belt
+
+      CHUCK PROPHET dyin' all young
+
+      THE VIOLENT FEMMES bl',3),(
+'   1. ABC  -  The night you murdered love
+   2. Bananarama  -  Love in the first degree
+   3. Commercial  -  Maxi power
+   4. Viktor Lazlo  -  Take me
+   5. Gino Vannelli  -  Persona non grata
+   6. Pepsi & Shirlie  -  Can't give me love
+   7. Communards ',4),(
+'   1. John Farnham - TWO STRONG HEARTS 
+   2. Yazz - THE ONLY WAY IS UP 
+   3. INXS - NEVER TEAR US APART 
+   4. Bon Jovi - BAD MEDICINE 
+   5. Sabrina - SEXY GIRL 
+   6. The Escape Club - WILD, WILD, WEST 
+   7. The Black Sorrows - HOLD ON TO ME 
+   8. K',5),(
+'   1. Paul Nord - Dog
+   2. DJ Remy - Backstabber
+   3. Royal Comsort - Comsort Royal
+   4. Saints & Sinners - Pushin too hard
+   5. Yello - Squeeze please (Moldt Mix)
+   6. Medway - Solace
+   7. Talla calls Moguai - Into another /DJ Moguai Mix)
+   8. Voy',6),(
+'   1. THE TWIST - FAT BOYS
+   2. YE KE YE KE - MORY KANTE
+   3. CHICO CHICO - BAMBOLEO
+   4. DON'T SAY IT'S LOVE - JOHNNY HATES JAZZ
+   5. ALL OF ME - SABRINA
+   6. GIMME HOPE JO'ANNA - EDDY GRANT
+   7. IM NIN'ALU - OFRA HAZA
+   8. HEAVEN CAN WAIT - SANDR',7),(
+'  S.F.O.T.W – THE ONLY GOOD CHRISTIAN IS A DEAD CHRISTIAN
+
+CABERET VOLTAIRE – PRODUCT CONTROL
+
+TEST DEPT. – TOTAL NERVOUS PHENOMENON
+
+MARC ALMOND – LOVE AMONGST THE RUINED
+
+PSYCHIC TV – TWISTED
+
+THE THE – FLESH AND BONES
+
+COIL – THE WHEEL
+
+YELLO – THE ROX',8),(
+' ''Elephant Walk In Morning Glory''//''Mission For The Don''//''Your Very Last Day''//''The Best In Me''//''The World Begins To Look Her Age''//''The Sandman''//''Last Bullet''//''Love In Adversity''',9),(
+' #1 Goldrush I6:31 Goldrush II6:12 She's Got A Gun  (live at the palladium, n.y., 4 sep 1985)4:20 12'' #2 Pinball Cha Cha [=80-85 version] 3:34 Vicious Games [=80-85 version]3:51',10),(
+' (7:20min., )',11),(
+' (dance mixes, vs. hard',12),(
+' (Rough Mixes)',13),(
+' [The Yello Video + The Video Race + The Ye',14),(
+' 01 Carlos Peron La Salle Noire - Exclusiver Remix
+02 State of the Union Firewall
+03 :SITD: Snuff Machinery - Remix
+04 Stromkern re-aLign
+05 Access Denied I shall over thee...
+06 Elesde Darkness Party
+07 Psyche Eternal - exklusive Live Piano
+Version 08 Sa',15),(
+' 1. Call Me - Blondie
+2. Tainted Love/Where Did Our Love Go - Soft Cell
+3. Enola Gay - Orchestral Manoeuvres in the Dark
+4. Love Will Tear Us Apart - Joy Division
+5. Blue Monday - New Order
+6. Planet Earth - Duran Duran
+7. Smalltown Boy - Bronski Beat
+8. ',16),(
+' A1	Lost Again (Mix 1)
+B1	Lost Again (Mix 2)
+B2	Lost Again (Mix 3)',17),(
+' CD 1:
+
+1.01 Clawfinger - Tomorrow (4:21:13)
+1.02 Die Krupps - Isolation (Clawfinger mix) (3:52:17)
+1.03 KMFDM - Juke Joint Jezebel (4:30:00)
+1.04 Project Pitchfork - Silent Scream (5:16:12)
+1.05 OOMPH! - Ice Coffin (5:18:25)
+1.06 Young Gods, The - Kissin',18),(
+' CULT HERO..''I'M A CULT HERO''
+ASSOCIATES..''A MATTER OF GENDER''
+PASSIONS..''OH NO,IT'S YOU'' AND ''MIRANDA''
+PURPLE HEARTS..''BEAT THAT''',19),(
+' 'I Love You' single mix]',20),(
+' Soundtrack:
+1. 0:00:00 The Race - Yello (1:30)
+2. 0:03:09 Hawaiian Chance - Yello (0:47)
+3. 0:05:26 Nuns Medley (0:30)
+4. 0:08:28 Goin' Out Of My Head - Little Anthony and The Imperials* (1:54)
+5. 0:10:56 Nuns Medley - Hidden Faces (0:50)
+6. 0:12:51 Blow',21),(
+' Westbam Mixes inc Machine Mix',22),(
+' x 2,Extended Version b/w Sweet Thunder',23),(
+'''blood and soil / a challence (the wanderer) / men of mercy / a memory / iona / in fear of fear / brothers / and the band played waltzing matilta / the men of the fall / the sound of retreat / fields''',24),(
+'#  1. vicious games (Hardfloor remix)
+# 2. vicious games (remixed by Boris Blank & Olaf Wollschlager)
+# 3. viciuos games (Vorsprung durch technik remix)',25),(
+'#  System Of the Spear
+# Weekend Transit/Baker's Barn
+# Experimental Installation
+# Soldiers on TV 1
+# Skench
+# Ultimate Correction
+# Living On The Ground
+# Church Of Cosmetics
+# Adhessive Paste
+# Breathing Amphimib Vehicle
+# Iron Bridge
+# Small
+# Soldier',26),(
+'# 1. DISC ONE TRACK LISTING:
+# 2. SHE SELLS SANCTUARY - THE CULT
+# 3. I LOVE YOU - YELLO
+# 4. GO! - TONES ON TAIL
+# 5. TOWER OF STRENGTH - THE MISSION U.K.
+# 6. LIVING IN OBLIVION - ANYTHING BOX
+# 7. I GOT YOU - SPLIT ENZ
+# 8. CHANGE - TEARS FOR FEARS
+# 9',27),(
+'# 1. THE NEVERENDING STORY - REAL IM-PACT
+# 2. GIVE PEACE A CHANCE (Single Mix) - INTERMISSION
+# 3. GAMES PEOPLE PLAY - INNER CIRCLE
+# 4. GIRLY GIRL - LUCILECTRIC
+# 5. CRASH! BOOM! BANG! - ROXETTE
+# 6. KISS FROM A ROSE - SEAL
+# 7. MISSION OF LOVE (Radio E',28),(
+'# Eimear Quinn:The Voice
+# Blackmore´s Night:Shadow Of The Moon
+# Engel Wider Willen:König Der Könige
+# Carlos Peron/Peter Ehrlich:Ritter Tod Und Teufel
+# Impressions Of Winter:Hi Versus
+# Trinovox:Ogne Losa A Morte Arrive
+# Convivium Musicum:Amor Ch´atte',29),(
+'# On My Own
+# From This Moment On
+# Made In Vain
+# Perfect World
+# Sorrow Town
+# Deep Down Together
+# Tell Me
+# Give Me Tomorrow
+# Higher Ground
+# Hush',30),(
+'# SIDE 1 Don't Mind If I Do - Bushy
+# Alles Ist Dada - Mense Reents (Electronicat Mix)
+
+SIDE 2
+# Talco Uno - Jolly Music (Tiefschwarz Mix)
+# I Love You - Yello
+
+SIDE 3
+# Brazil - Xavier Cugat & His Orchestra
+# Back By Dope Demand - Naab
+
+SIDE 4
+# Ligeirin',31),(
+'(6:46min., )',32),(
+'(7:00min., )',33),(
+'(andrew weatherall mixes',34),(
+'(d/'s house mix)',35),(
+'(pits mix, )',36),(
+'(remix, )',37),(
+'(suite 904)',38),(
+'(teri bristol & mark picchiott',39),(
+'(yello belly trippin/'',40),(
+'01  	Hope  	Tree Frog  	   	   	   	 
+02 	M.A.S.I. 	Apache 	  	  	  	 
+03 	Black Evita 	Yo Mira 	  	  	  	 
+04 	Winx 	How's The Music 	  	  	  	 
+05 	Slo Moshun 	Bells Of N.Y. 	  	  	  	 
+06 	You 	Blow 	  	  	  	 
+07 	Progression 	Reach Further 	  	  	  	',41),(
+'01  	Red Seal  	Upturn  	   	   	   	 
+02 	BBR Streetgang 	Disco Groove 	  	  	  	 
+03 	H20 feat. Billie 	Satisfied 	  	  	  	 
+04 	Dad Line 	Boom Base 	  	  	  	 
+05 	The Mighty Dub Cats 	Magic Carpet Ride 	  	  	  	 
+06 	Pizzaman 	Sex On The Streets 	  ',42),(
+'01 	DJ Dero 	Batucada [Outro: cold] 	- 	126.8
+02 	Kaballa 	The Drums of the Lock [BPM info: 0 -speeds to 131.6] 	- 	131.6
+03 	Exposure & DJ Phillipe 	Party Claps 	- 	132.9
+04 	Next IV 	Pia - Samba - No. 2 	- 	140.0
+05 	Goodmen, The 	Give it Up 	- 	124.8
+0',43),(
+'01 	Essence 	The Promise (Direct Hit Digital Mix / Steve Bourasa) 	- 	135.0
+02 	Tin Tin Out 	Here's Where the Story Ends (Direct Hit Digital Mix / Steve Bourasa) 	- 	132.0
+03 	Tomski 	14 Hours to Save the Earth (Direct Hit Digital Mix / Paul Goodyear) 	- ',44),(
+'01 	Hope 	Tree Frog (Hot Tracks Digital Mix / Chris Cox) 	- 	127.0
+02 	M.A.S.I. 	Apache (Hot Tracks Remix / Robert Vaughan & Chad Littlepage) 	- 	130.1
+02 	Outhere Brothers 	Fuk U in the Ass (Hot Tracks Digital Remix / Chris Cox & Ron Hester) 	- 	128.0
+03',45),(
+'01 	Parton, Dolly 	Peace Train (Direct Hit Digital Mix / Steve Bourasa) 	 6:24 	135.0
+02 	Kristine W 	Feel What You Want '97 (Direct Hit Digital Mix / William George) 	6:18 	133.0
+03 	Ascension 	Someone (Direct Hit Digital Mix / Phil B.) 	8:37 	135.0
+04 	',46),(
+'01 	Tears for Fears 	The Way You Are (12'' Mix) [Time: 7:46] 	- 	-
+02 	Ultravox 	Reap the Wild Wind [Time: 3:50] 	- 	-
+03 	When in Rome 	The Promise (O.N. Mix) [Time: 6:25] 	- 	-
+04 	Plus One 	Nevermore (Extended Version) [Time: 6:44] 	- 	-
+05 	Naked Eyes ',47),(
+'01 	Wilde, Kim 	Shame (Direct Hit Digital Mix / Steve Bourasa) [Time: 7:24] 	- 	130.0
+02 	Healy, Jeremy & Amos 	Stamp (Direct Hit Digital Mix / Steve Bourasa) [Time: 6:47] 	- 	135.0
+03 	Yello 	On Track (Direct Hit Digital Mix / J. Marc Andrus) [Time: 8:45',48),(
+'01 Carnival of Dreams The perfect journey
+02 Carnival of Dreams Hörst du uns rufen
+03 Carnival of Dreams C.i.B.
+04 Carnival of Dreams Gedanke zerbricht
+05 Carnival of Dreams Man on the Moon
+06 Strange Contact Fairytale (Radi-O-Edit)
+07 Y-my-R Me
+08 Dynami',49),(
+'01 Joe Jackson - Steepin' Out
+
+02 Tears For Fears - Mad World
+
+03 Yazoo - Don't Go
+
+04 Camouflage - Love Is A Shield
+
+05 Erasure - Sometimes
+
+06 Nik Kershaw - Dancing Girls07 Sandra - Maria Magdalena
+
+08 Falco - Vienna Calling
+
+09 Eurythmics - There Must ',50),(
+'01	A New Culture Is Born
+02	The Nightfly
+03	La Luna
+04	DJ Culture
+05	Sundowner
+06	Sound Of Machines
+07	The Blue Sky
+08	Waste Your Youth
+09	Mindcrasher
+10	The Nightfly (Break Reprise)
+11	After Love (Club Mix)
+12	Cream (Long Version)',51),(
+'01	Departure	Rendevous And A Flirt With You	 	 	 	 
+02	Debbie Harry	In Love With Love	 	 	 	 
+03	Living In A Box	Living In A Box	 	 	 	 
+04	Belouis Some	Let It Be With You	 	 	 	 
+05	Yello	Call It Love	 	 	 	 
+06	CCP	A Solution	 	 	 	 
+07	Ken Heaven	The C',52),(
+'01	Do It (Boris 7'') (3:07)
+02	Do It (Radio) (3:41)
+  remix by Mark Picchiotti & Teri Bristol
+03	Do It (Boris 7'' Instrumental) (3:07)
+04	Do It (Spinout & Mellow Mix) (7:10)
+  remix by Sun Electric
+05	Do It (Buddah-Pic Mix) (7:04)
+  remix by Mark Picchiotti',53),(
+'01	Fantasy Three	 - 	It's Your Rock (Instrumental) (6:47)
+02	Knights Of The Turntables, The	- 	Techno Scratch (3:35)
+03	Cybotron	- 	Clear (4:39)
+04	Grandmaster Flash & The Furious Five	- 	Scorpio (4:24)
+05	Project Future	- 	Ray-Gun-Omics (6:11)
+06	Craig P',54),(
+'01	Miro (2)	 - 	Spaceman (Trance Mix)
+02	Renaissance	- 	The Sect Of The Sea (Original 12'' Mix)
+03	Quadran	- 	Illusive Dream (Southside Mix)
+  remix by Sunscreem
+04	LaTour	- 	Blue (Underground Ice Pick Mix)
+05	Virtual Element	- 	Groove A Haque (Original Mi',55),(
+'01	The Race (Brake Light Mix) (6:50)
+02	How How (Papa-Who-Ma-Mix) (5:51)
+  remix by Fluke
+03	More (Rockabilly Mix) (6:14)
+04	Do It (Marky P. & Teri B. Dub) (7:46)
+  remix by Mark Picchiotti & Teri Bristol
+05	Topaz (Insect Mix) (3:36)
+06	How How (In Silenc',56),(
+'01	Various Artists	The Dance Decade Volume 5 (1984)	 	 	 	Bizzie Bee
+02	Yello	Blazing Saddles	 	 	 	Paul Dakeyne
+03	Whitney Houston	I Want To Dance With Somebody	The Minneapolis Connection	 	 	Steve Anderson
+04	Sugarhill Gang	Rappers Delight	 	 	 	Ben Lie',57),(
+'01	Yello	Megamix	In One Go Medley	 	 	 
+02	Kraftwerk	Megamix	The Mix Medley	 	 	 
+03	Yello	The Race	 	 	 	 
+04	Kraftwerk	Megamix	Computerwelt Medley	 	 	 
+05	Yello	Call It Love	 	 	 	 
+06	Kraftwerk	The Telephone Call	 	 	 	 
+07	Yello	Vicious Games	 	 	 	 ',58),(
+'01) Don´t Leave Me This Way -- Communards
+02) Only You -- The Platters
+03) Come On Eileen -- Kevin Rowland & Dexys Mignight Runners
+04) never Gonna Give You Up -- Barry White
+05) The Look Of Love -- ABC
+06) You´re In The Army Now -- Status Quo
+07) Love In',59),(
+'01. 	2:48 	Dieter Thomas Kuhn & Band / Fiesta Mexicana
+02. 	2:53 	Dieter Thomas Kuhn & Band / Einsamkeit hat viele Namen
+03. 	3:32 	CAN / I want more
+04. 	4:17 	Jochen Schmidt / Hambrock
+05. 	3:59 	Jam & Spoon's Hand on Yello / You gotta say yes to anothe',60),(
+'01. Cult Hero - I Dig You
+02. The Associates - Janice
+03. Tim Pope - I Want To Be a Tree
+04. The Cure - To the Sky
+05. Eat - Fat Man
+06. Die Warzau – Shakedown',61),(
+'01. Tom & Jerry (Udo Jürgens – „Vielen Dank für die Blumen'')
+02. Miss Marple
+03. Ein Colt für alle Fälle (Lee Majors – „Unknown Stuntman'')
+04. Dornenvögel
+05. Die Familie Barbapapa
+06. Magnum
+07. Formel Eins (Yello – „The Race'')
+08. Aktenzeichen XY ...ung',62),(
+'01.01 	Sandra 	Hiroshima (Razormaid! Digital Mix / Art Maharg) [Key: E min Note: Orig. on RM SP-014. 1990.] 	- 	 89.0
+01.02 	Mylene Farmer 	Pourvu Qu'elles Soient Douces ([Digital Mix] / Joseph Watt) [Key: B min Note: Orig. on RM SP-014. 1990.] 	- 	90.0
+0',63),(
+'1   Ardistan-Mischung   DEJA VU
+
+2   Ardistan-Remix   WITT
+
+3   Ardistan-Remix   ASHRA
+
+4   Ardistan-Remix   YOMANO
+
+5   Ardistan-Re-Compu-Mix   PERON
+
+6   Ardistan-Mischung   SITARA
+
+7   Ardistan-Remix   PACHINKO FAKE
+
+8   Ardistan-Die singende Bombe Ver',64),(
+'1  	 	HOT SHOT  	BARBARA TUCKER
+2 		DIRTY DAT 	BITE THE BULLET
+3 		FINALLY 97 	CE CE PENISTON
+4 		YOU'RE NOT ALONE 	OLIVE
+5 		HAND IN HAND 	GRACE
+6 		FORBIDDEN FRUIT 	PAUL VAN DYK
+7 		GROOVE BIRD 	NATURAL BORN GROOVES
+8 		AQUARIUS 	DASTIX
+9 		PRIDE 	JOHNN',65),(
+'1 Hold Me Now – Thompson Twins
+
+2 Blue Night Shadow – Two Of Us
+
+3 America The Brave – Steve Harley
+
+4 Hey Lord don´t ask me Questions – Graham Parker
+
+5 Just an Illusion - Imagination
+
+6 Privat Dancer – Tina Turner
+
+7 Strength of Character – China Crisis',66),(
+'1	A New Culture Is Born (3:14)
+  vocals by Dieter Meier
+2	The Nightfly (7:21)
+3	La Luna (5:45)
+4	DJ Culture (6:07)
+5	Sundowner (5:15)
+6	Sound Of Machines (5:15)
+7	The Blue Sky (6:38)
+8	Waste Your Youth (4:38)
+9	Mindcrasher (7:30)
+10	The Nightfly (Break Re',67),(
+'1	A New Culture Is Born (3:14)
+2	The Nightfly (7:21)
+3	La Luna (5:45)
+4	DJ Culture (6:07)
+5	Sundowner (5:15)
+6	Sound Of Machines (5:15)
+7	The Blue Sky (6:38)
+8	Waste Your Youth (4:38)
+9	Mindcrasher (7:30)
+10	The Nightfly (Break Reprise) (5:32)
+11	After Lo',68),(
+'1	DJ Energy	 - 	Step Into The Arena (Energy 97 Theme) (Radio Edit) (3:39)
+2	RMB	- 	Break The Silence (Short) (3:56)
+3	Future Breeze	- 	Illusion (5:04)
+4	DJ Quicksilver	- 	Free (Club Mix) (3:26)
+5	Hypertrophy	- 	Just Come Back 2 Me (Brooklyn Bounce Remix) ',69),(
+'1	Inner City	 - 	Big Fun (3:19)
+2	Terry Mullan	- 	Speaker Phreaker ''Phreaky Deaky'' (4:14)
+3	Joey Beltram	- 	Energy Flash (4:26)
+4	Yello	- 	Bostich (2:03)
+5	Innocent, The	- 	Elektric Disko (6:54)
+  featuring Derrick Carter
+6	Cabaret Voltaire	- 	Colours (Or',70),(
+'1	Oh Yeah (Video Edit) (3:34)
+  remix by Plutone
+2	Oh Yeah (Experimental Mix) (5:14)
+  remix by Plutone
+3	Oh Yeah (Plutone Remix) (6:12)
+  remix by Plutone
+4	Oh Yeah (Sun + Moon Mix) (5:18)
+  remix by Plutone',71),(
+'1	Space (5)	 - 	Neighbourhood (3:27)
+2	Kool Moe Dee	- 	No Respect (5:25)
+3	Yello	- 	Jungle Bill (3:43)
+4	Apollo Four Forty	- 	Vanishing Point (7:26)
+5	Jim Farmer	- 	The Real Blonde (3:52)
+6	Hooverphonic	- 	Inhaler (5:10)
+7	Joey Altruda & His Cocktails Cre',72),(
+'1	When In Rome	 - 	The Promise (On Mix) (6:25)
+2	Haircut 100	- 	Love Plus One (5:36)
+3	Giorgio Moroder With Philip Oakey	- 	Together In Electric Dreams (6:25)
+4	Yello	- 	Oh Yeah (6:22)
+5	Q-Feel (Duplicate Of Q Feel)	- 	Dancing In Heaven (Orbital Be-Bop) (',73),(
+'1)MC MIKER G & DEEJAY SVEN - HOLIDAY RAP 4:25 Min. 2)FIVE STAR - FIND THE TIME 3:56 Min. 3)JANET JACKSON - NASTY 3:40 Min. 4)YELLO - GOLDRUSH 3:48 Min. 5)BANANARAMA - MORE THAN PHYSICAL 3:18 Min. 6)THE MOODY BLUES - YOUR WILDEST DREAMS 3:50 Min. 7)BEAGLE ',74),(
+'1)MEGAMIX VERSION 13:13 Min. 2)MIX VERSION 13:30 Min. Die Mixe enthalten folgende Lieder: CLUB HOUSE - YEKE YEKE/I'M A MAN , YAZZ - THE ONLY WAY IS UP , YELLO - THE RACE , S'EXPRESS - THEME FROM S'EXPRESS , FUNHOUSE - DANCIN' EASY , STEVE CLARK - YOU CAN ',75),(
+'1.   -  The Team on TourA    - -    Mark oh    - -    min: 3:54    -
+2.   -  Happy People- -    Mr. President    - -    min: 3:38    -
+3.   -  Dont Forget The Sunshine        - -    Just Frinds    - -    min: 3:52    -
+4.   -  Dont Call It Love     - -   ',76),(
+'1.  Sweet Little Mystery - Wet Wet Wet  [03:41]
+2.  You Came - Tony Swain  [04:35]
+3.  Everything's Coming Up Roses - Black  [04:06]
+4.  Perfect - Fairground Attraction  [03:36]
+5.  Piano In The Dark - Brenda Russell  [05:19]
+6.  Stop - Sam Brown  [04:56]',77),(
+'1.  Sweet Sixteen - Billy Idol  [04:14]
+2.  Dance Little Sister - Terence Trent D'Arby  [03:55]
+3.  The Great Commandment - Camouflage  [04:15]
+4.  Living In A Box - Living In A Box  [03:04]
+5.  The Night You Murdered Love - ABC  [04:54]
+6.  Heartache - P',78),(
+'1. a hit song (full version) 2. a hit song (negress version) 3. dans la catastrophe 4. kakophonie no 241',79),(
+'1. CD
+
+Snap: Welcome to tomorrow (are you ready?)
+Jovanotti: Serenata Rap
+Dr. Alban: Let the beat go on
+Warren G.: Regulate
+La Bouche: Sweet dreams
+The Grid: Swamp thing
+Mo-Do: Eins, zwei, Polizei
+Perplexer: Da Capo
+The Prodigy: No good (Start the dance)
+',80),(
+'1. Cradle of Love performed by Billy Idol - 4:41 2. Sea Cruise performed by Dion - 3:01 3. Funky Attitude performed by Sheila E. - 4:34 4. Glad to Be Alive performed by Teddy Pendergrass / Lisa Fisher - 4:57 5. Can't Get Enough performed by Tone Loc - 4:0',81),(
+'1. Donna Summer – I Feel Love 8:14
+2. Jody Watley – Looking for a New Love 5:07
+3. Man To Man – Male Stripper 8:15
+4. Yazz – The Only Way Is Up
+5. Michael Bow – Love & Devotion 6:08
+6. Yello – Oh Yeah 6:17
+7. Lil’ Louis – French Kiss 9:17
+8. S’Xpress – Th',82),(
+'1. Early Blow - Ratio, 2. Dumped - G.Flame/Mr. G, 3. User (02)-B2 - Richard Harvey, 4. User (04)-A2 - Richard Harvey, 5. User (02)-A2 - Richard Harvey, 6. User (01)-B2 - Richard Harvey, 7. 001A-A2 - Richard Harvey, 8. B2 - Grain 1, 9. Road To Rio EP-B2 - ',83),(
+'1. Emotion Heater - The Gentle People (vocal mix)
+2. To The Sea - Yello (original mix)
+3. Loft In Paradise - Danny Tenaglia
+4. Plan, The / Minty - Outside
+5. Going Round - Herbert & Dani Siciliano
+6. Beau Mot Plage - Isolee
+7. Bang Bang You're Mine - Bang',84),(
+'1. Emotion Heater (vocal mix) - Gentle People (The)
+2. To The Sea (original mix) - Yello
+3. Loft In Paradise - Danny Tenaglia
+4. MEDLEY: Plan, The/Minty - Outside
+5. Going Round - Dani Siciliano
+6. Beau Mot Plage - Isolee
+7. Bang Bang You're Mine (full vo',85),(
+'1. Flaming Church - Sheep On Drugs
+2. Sex Drive - Grace Jones (final master race mix)
+3. E - LaTour (Saranjhi sunset mix)
+4. Heavy Water - Holy Ghost
+5. Vicious Games - Yello (belly trippin' trance music)
+6. Words Of Advice For Young People - William S. B',86),(
+'1. Follow My Rainbow - Shena Easton
+2. Satellite - The Hooters
+3. I'm Looking For Someone - Stray Cats
+4. Moon On Ice - Yello
+5. New York Theme - Jan Hammer
+6. Dirty Laundry - Don Henley
+7. I Got You (i Feel Good) - James Brown
+8. Devil With A Blue Dress ',87),(
+'1. Fury In The Slaughterhouse: Time to wonder (Live)
+2. ABC: The night you murdered love
+3. Bill Haley: Rock around the clock
+4. Free: All right now
+5. Kool & The Gang: Fresh
+6. Angelique Kidjo: Agolo
+7. Yello: La Habanera
+8. Chaka Demus & Pliers with Jac',88),(
+'1. GIANT SAND - Yer Ropes
+2. ELBOW - Scattered Black And Whites
+3. RICHARD THOMPSON - I Feel So Good
+4. SOUTH Here On In
+5. THE FALL - Hit The North
+6. ALPHA - Wise
+7. SHANE MacGOWAN & THE BLOCKHEADS - Plaistow Praticia
+8. BILLY MacKENZIE - When The World',89),(
+'1. Groovy Kind Of Love, A - Phil Collins
+2. He Ain't Heavy, He's My Brother - Hollies (The)
+3. Circle In The Sand - Belinda Carlisle
+4. Don't Turn Around - Aswad
+5. I Found Someone - Cher
+6. Need You Tonight - INXS
+7. Angel Of Harlem - U2
+8. Somewhere Dow',90),(
+'1. Ian McCulloch - The Prettiest Star 2. Culture Club - Starman 3. Guy Chadwick - Fall in love with me 4. Edwyn Collins - The gospel according to Tont Day 5. Divine Comedy - Life on Mars 6. Alejandro Escovedo - All the young dudes 7. Midge Ure - The man w',91),(
+'1. It's Immaterial - Festival Time
+2. Marc Almond - Indigo Blue
+3. The Fall - LA (live)
+4. Yello - There Is No Reason
+5. Woodentops - Why
+6. Edwyn Collins - Kindred Spirit
+7. Pulp - Don't You Know
+8. Jazzateers - Pressing On
+9. Wild Flowers - Where My Hea',92),(
+'1. JAN HAMMER „The Origianl Miami Vice Theme“
+2. DON JOHNSON („SONNY CROCKETT“) „Heartbeat“
+3. TINA TURNER „Better Be Good To Me“
+4. PHIL COLLINS „Against All Odds (Take A Look At me Now)“
+5. BRUCE WILLIS „Respect Yourself“
+6. DON JOHNSON („SONNY CROCKETT',93),(
+'1. Lawnchairs - Our Daughters Wedding
+2. Papa's Got A Brand New Pigbag - Pigbag
+3. Bostich - Yello (Extended remix)
+4. Ball Of Confusion - Love & Rockets (Extended version)
+5. Rapture - Blondie (Special Disco Mix)
+6. Precious - The Jam (Extended version)
+',94),(
+'1. Listen To The Music - Doobie Brothers, The
+2. Don't Get Me Wrong - Pretenders, The
+3. Cold As Ice - Foreigner
+4. Shout - Tears For Fear
+5. Addicted To Love - Robert Palmer
+6. Call Me - Blondie
+7. Walking On Sunshine - Katrina & The Waves
+8. Live Your L',95),(
+'1. Muzikizum
+2. Supasong
+3. Lazy - (featuring David Byrne)
+4. Angel
+5. Palenque
+6. Smoke Machine
+7. I Want You Back - (featuring Dieter Meier)
+8. Call That Love - (featuring Steve Edwards)
+9. AC/DC
+
+10. Ending, The',96),(
+'1. Neneh Cherry - I've Got You Under My Skin
+
+2. Depeche Mode - I Feel You
+
+3. Bally Sagoo - O Saathi Re
+
+4. Stars on 54 - If You Could Read My Mind
+
+5. Lionel Richie - Angel (remix)
+
+6. Deborah Cox - Nobody's Supposed To Be Here
+
+7. Ministry - Lay Lady L',97),(
+'1. Neneh Cherry ~ I've Got You Under My Skin
+
+2. Depeche Mode ~ I Feel You
+
+3. Bally Sagoo ~ O Saathi Re
+
+4. Stars On 54 ~ If You Could Read My Mind
+
+5. Lionel Richie ~ Angel (Remix)
+
+6. Deborah Cox ~ Nobody's Surprised to be Here
+
+7. Ministry ~ Lay Lady ',98),(
+'1. Oh Yeah (from ''Ferris Bueller's Day Off'') - Yello
+2. Pretty In Pink (from ''Pretty In Pink'') - The Psychedelic Furs
+3. If You Leave (from ''Pretty In Pink'') - Orchestral Manoeuvers In The Dark
+4. Rock 'N' Roll High School (from ''Rock 'N' Roll High School',99),(
+'1. Oystein-Sevag: ''The door is open'', 2. Morgan Fisher: ''Love'', 3. Vangelis: ''Tao of love'', 4. Djam & Fam: ''She left home'', 5. Badema: ''Urga'', 6. Nitin Sawhney: ''Bengali song'', 7. Jam & Spoon: ''Secret kind of love'', 8. Agartha: ''Crossing'', 9. Gentle Peopl',100),(
+'1. Praying Mantra - Material
+2. Democracy - Killing Joke
+3. Satellite Serenade - Keiichi Suzuki
+4. Fast Forward The Future - Zodiac Youth
+5. Higher Than The Sun - Primal Scream
+6. Ambiant State - Ready Made
+7. So And Slow It Grows - Wir
+8. Secret Squirrel',101),(
+'1. Radio Edit ( 3:38 )
+
+2. Für immer im weißen Raum mit Carlos Peron ( 7:11 )
+
+3. Album Edit ( 5:01 )
+
+4. Lucifers Request ( 6:50 )',102),(
+'1. Starband - Stella splendens
+2. Hortus Musicus - Ninguno cierre las puertas
+3. Adaro - Se ome fezer de grado
+4. Die Streuner - Die Räuber
+5. Spectaculatius - Der König und der Bettler
+6. Airim - Follw me up to Carlow
+7. Corvus Corax - Mit dans is all di',103),(
+'1. Synchronize With Me (4:42)
+2. Dark Mind (4:00)
+3. Digital Dreams (5:09)
+4. And I Created Woman (4:16)
+5. Coitus Interstellaris (3:59)
+6. Use Your Options (4:47)
+7. Trapped In Your Fantasy (4:15)
+8. Gay Encounters (4:16)
+9. Sweet Torture (4:56)
+10. Term',104),(
+'1. White Horse - Laid Back
+2. Problemes D'Amour - Alexander Robotnic
+3. Bostich - Yello
+4. Aspectacle (Holger Czukay mix) - Can
+5. Ciguri - Material
+6. Get Down - Connie Case
+7. Timewarp - Coach House Rhythm Section (The)
+8. Let's Go Swimming - Arthur Rus',105),(
+'1.01	101	 - 	Rock To The Beat (5:34)
+1.02	Jamie Principle	- 	Baby Wants To Ride (6:25)
+1.03	Kate B	- 	Breakdown (4:18)
+1.04	WestBam	- 	Monkey Say, Monkey Do (I Wanna Do) (6:47)
+1.05	Dr. Phibes (DUPLICATE)	- 	Acid Story (Original Radio Edit) (4:33)
+1.06	We',106),(
+'1.01	Dune (3)	 - 	Hardcore Vibes (Good Vibes Mix)
+1.02	Tofke feat. Insider	- 	Un Coketoff
+1.03	Digital Express	- 	Man, Women, Love
+1.04	S.B.E.	- 	God's Back
+1.05	Cerpent	- 	Class One
+1.06	System 01	- 	Drugs Work
+1.07	Encephaloïd Disturbance	- 	Anaesthetic',107),(
+'1.01	Masterboy	 - 	Feel The Heat Of The Night (Special Maxi Power Mix) (5:05)
+1.02	Stella Getz	- 	Dr. Love (Extended Version) (3:58)
+1.03	Ice MC	- 	Think About The Way (Extended Mix) (6:05)
+1.04	2 Unlimited	- 	The Real Thing (Extended) (6:20)
+1.05	Marusha',108),(
+'1.01	Paffendorf	 - 	Where Are You (Radio Edit) (3:27)
+1.02	Beam & Yanou	- 	Rainbow Of Mine (Video Mix) (3:54)
+1.03	E Nomine	- 	E Nomine (Denn Sie Wissen Nicht Was Sie Tun) (Video Edit) (3:43)
+1.04	Giorgio vs. Talla 2XLC (DUPLICATE)	- 	E=mc² (Radio Edit) (',109),(
+'1.1	Yello	 - 	Bostich
+1.2	Yazoo	- 	Situation (1982 Remix)
+1.3	Pili Pili	- 	Hoomba Hoomba
+1.4	Kissing The Pink	- 	Big Man Restless
+1.5	Voyou	- 	Houseman
+1.6	Holger Czukay	- 	How Much Are They
+1.7	Umo Detic	- 	Fahrenheit
+1.8	Xymox	- 	Michelle
+2.1	Blancmange',110),(
+'1.Depeche Mode Vol 1. 2.Pet Shop Boys Rare Remixes & Megamixes. 3.Yazoo The 12 inch mixes & megamix. 4.Abba The Remix Project. 5.The Megamixes! (New Order megamix-Yello megamix).',111),(
+'1.In Your Hands (Hardcore Vibes)
+2.Brothers Of Doom (Boom-Break Version)
+3.Burning Crosses (Hardfucked Version)
+4.Hatred (Cicuta Virosa Version)
+5.In Your Hands (House Version)
+6.Extract (Video Edit)
+7.Machined (Peron's Acid Terror)
+8.Feldmonior C4 (Piano',112),(
+'1.Le Nil Blanc (Single Malt Version)
+
+2.Tendresse Bleue
+
+3.Passion Of The Moment
+
+4.Le Regisseur Du Chateau
+
+5.Trancetruemental
+
+6.Laxmi-Ma And Durga-Ma
+
+7.Birth Of Chronos
+
+8.Wa Boon Yalla
+
+9.Steh' Fest!
+
+10.Le Nil Bleue (Soudan Version)',113),(
+'1.M 63 Galactic Anthem (Overture) 2.The Spacemare 3.Aliens Marching In 4.Humans Must Be Organized 5.Observation Of Life 6.A Night At The Hospital 7.My Sea Of Sulphered Cupper 8.Soccer In Space 9.After Midnight No. 1 10.Ich lad auf Dock 9 11.After Midnight',114),(
+'1.Muget Ir nu Wunder Hören sagen 2.Die junge Krimhild 3.Hagen nach dem Raub 4.In der Burg Hagen Tronjes 5.Die Geschichte des Etzel 6.Etzel schwört Rache 7.Der Komtur 8.Der scharfsinnige Junker Don Quijote de la Mancha 9.Der Apfelschuß 10.Lohengrin 11.Er s',115),(
+'1.Oh Yeah 2.The Race 3.Drive/Driven 4.Rubberbandman 5.Vicious Games 6.Tied Up 7.Lost Again 8.I Love You 9.Of Course I'm Lying 10.Pinball Cha Cha 11.Bostich 12.Desire 13.Jungle Bill 14.Call It Love 15.Goldrush 16.The Rhythm Divine',116),(
+'1: Arrogance Gave Him Up; 2: No; 3: Bap De La Bap; 4: Gloomy Sunday; 5: Nude Spoons; 6: Skipping; 7: It's Better This Way; 8: Party Fears Two; 9: Club Country; 10: Nothinginsomethingparticular; 11: Love Hangover; 12: 18 Carat Love Affair; 13: Ulcragycepti',117),(
+'1: Blazing Saddles (6:09); 2: I Love You (6:03); 3: The Rhythm Divine (4:10); 4: Blue Nabou (3:19);',118),(
+'1: Call It Love (7:04); 2: L'Hotel (3:57); 3: Call It Love (Trego Snare Version) (6:21)',119),(
+'1: Carlos Peron: Soccer in Space; 2: Sulphur Sky: Bad Weekend; 3: Martin Rev: Red Sierra; 4: Martin Rev: Wings of the Wind; 5: biPROG: Frequency Map; 6: The Voodooists: Maitre Minuit; 7: black rain: Night City Ninsei Ambient; 8: Severed Heads: A High Stan',120),(
+'1: Colours Will come; 2: Opal Krusch; 3: Look What You've Done; 4: Feels Like The Richtergroove;',121),(
+'1: Do It ( U.S. Version) (3:12); 2: Do It (Long Version) (7:48);',122),(
+'1: Drive Driven (Edit) (3:38); 2: Drive Driven (Album Version) (4:11);',123),(
+'1: Goldrush I (6:31); 2: Goldrush II (6:12); 3: She's Got A Gun (Live) (4:20);',124),(
+'1: How How (Drummer's Mix); 2: How How (In Silence Mix); 3: How How (Saxophone Mix); 4: How How (A Capella);',125),(
+'1: How How (Single Version) (2:38); 2: How How (The Premix) (5:54); 3: How How (Breaks, Beats & Loops – The How How Samples);',126),(
+'1: How How (Single Version) (2:38); 2: The Premix (How How) (5:54); 3: Moon Dog (3:30);',127),(
+'1: How How(2:38); 2: Vicious Games(6:38); 3: Do It(7:45); 4: Do It(6:42)',128),(
+'1: I Want You Back (Radio Edit), 2: I Want You Back (Original)',129),(
+'1: I Want You Back (Radio Edit), 2: I Want You Back (Original); 3: Lazy Featuring David Byrne (Freeform Five Remix);',130),(
+'1: In Your Mind; 2: Floating; 3: The Cold; 4: Le Triangle Noir; 5: Esclavage; 6: In Your World; 7: Sentiment De La Vie;',131),(
+'1: Jam & Spoon: Jam & Spoon's Hands On Yellow[sic!]. You Gotta Say Yes To Another Excess – Great Mission (video mix); 2:  etc',132),(
+'1: Jingle Bells (Single Version) (2:58); 2: Jingle Bells (Movie Version) (4:46); 3: Jingle Bells (Santa Club Mix) (5:17);',133),(
+'1: Jungle Bill (single version from “Essential”) (3:35); 2: Jungle Bill (long version from “Baby”); Jungle Bill (Chicken Dive Mix) (8:39);',134),(
+'1: Jungle Bill (Single Version) (3:50); 2: ungle Bill (Big Pig Shuffle) (6:22); 3: Jungle Bill (Space Shuffle) (7:59);',135),(
+'1: Lost Again; 2: Base For Alec',136),(
+'1: Of Course I am Lying(4:06)',137),(
+'1: Of Course I am Lying; 2: Of Course I am Lying',138),(
+'1: On Track (Doug Laurent's First Journey / Singel Version) (3:44); 2: On Track  (Original Version / Edit) (3:46); 3: On Track (Doug Laurent's First Journey) (7:31); 4: CD-ROM Info track (On Track video, To The Sea video, Weblink)',139
+'1: People Are Strange (UNKLE radio edit) (3:39);',140
+'1: Planet Dada (original version) (3:08); 2: The Race 2003 (Tomcraft on Yello) (6:31)',141
+'1: Planet Dada; 2: The Race 2003; 3: Planet Dada; 4: Planet Dada; 5: The Raqce 2003; 6: Planet Dada; 7: Planet Dada;',142
+'1: Possesed House *6:05); 2 Neandra's Def Version (3:24); 3: Black Sand (3:05); 4: Black Sand (Drug Dub Version) (4:12); 5: Brainticket (4:26); 6: End Title (3:05);',143
+'1: Rubberbandman (Rubber Version) (7:23); 2: The Race (The Pits Mix) (6:21); 3: The Rhythm Divine (4:14);',144
+'1: Rubberbandman(extended version) (5:40); 2: Rubberbandman( 7” version) (3:35); 3: Sweet Thunder (5:23);',145
+'1: Rubberbandman(extended version); 2: Rubberbandman( 7” version); 3: Sweet Thunder',146
+'1: Tears (6:32); 2: Change (7:21); 3: Father Death (5:54); 4: Venus (5:26); 5: Coming (5:27); 6: Deliverance (5:18); 7: Cosmic Chaos (5:22); 8: Heaven (4:33); 9: Outburst (4:009); 10: Sensation (4:3); 11: Aphrodisia (4:27);',147
+'1: The Race (13:22); 2: Another Race (Magician's Version for Tempest + Cottet) (3:42)',148
+'1: The Race (13:22); 2: La Habanera (5:10)',149
+'1: The Race (3:15); 2: The Race (Remixed by Derek May) (6:21); 3: The Race (Extended Version) (13:22); 4: Bostich (Reese Respect Mix) (2:18);',150
+'1: Tied Up ( 2:30); 2: The Race (3:40); 3: Goldrush (Extended Version)(6:14); 4: Desire (Extended Version) (6:53)',151
+'1: Tied Up In Life; 2: Oh Yeah; 3: Wall Street Bongo; 4: Tied Up (7” version)',152
+'1: Tied Up;',153
+'1: To The Sea (Radio Version / Northern Mix) (3:52);',154
+'1: To The Sea (Radio Version / Northern Mix) (3:52); 2: To The Sea (Original Version) (3:27);',155
+'1: To The Sea (Radio Version / Northern Mix) (3:52); 2: To The Sea (Original Version) (3:27); 3: To The Sea (Southern Mix) (3:48);',156
+'1: Vicious Games (Radio/ Video Edit) (3:47); 2: Vicious Games (Art of Trance remix) (8:07); 3: Vicious Games (Da Bomb remix) (6:59);',157
+'1: Who's Gone? (Extended Version) (6:18); 2: Who's Gone? (Single Version) (3:20); 3: Ocean Club (Album Version) (3:26);',158
+'1: Yello: Oh Yeah (6:22); 2: Munich Machine: Get On The Funk Train (15:40);',159
+'1; Yello Live At The Roxy N.Y. Dec. '83 (15:00);',160
+'10 + 11',161
+'1-01 	Van Bellen 	Let Me Take You (Razormaid! Digital Remix / Joseph Watt) 	- 	129.0
+1-02 	Orinoko 	Mama Konda (Razormaid! Digital Remix / Joseph Watt) 	- 	132.0
+1-03 	Split 	Perfect Bass (Razormaid! Digital Remix / Joseph Watt) 	- 	133.0
+1-04 	Whip 	Anni',162
+'1-01	Charly Lownoise & Mental Theo	 - 	Together In Wonderland (DJ Demand Remix)
+  remix by DJ Demand
+1-02	General Base	- 	Rhythm & Drums
+1-03	Masters Of Rave	- 	Are You With Me
+1-04	Sunbeam	- 	Outside World
+1-05	DJ Paul Elstak	- 	Life Is Like A Dance (DJ ',163
+'1-01	D.A.F.	 - 	Der Mussolini (3:55)
+1-02	Propaganda	- 	P-Machinery (3:50)
+1-03	Peter Godwin	- 	Images Of Heaven (5:00)
+1-04	Fad Gadget	- 	Collapsing New People (4:03)
+1-05	Kissing The Pink	- 	Big Man Restless (4:56)
+1-06	Ian Dury And The Blockheads	- 	Hi',164
+'1-01	Gary Numan	 - 	Cars (3:41)
+1-02	Erasure	- 	Sometimes (3:29)
+1-03	Frankie Goes To Hollywood	- 	Relax (3:55)
+1-04	Eurythmics	- 	Who's That Girl (3:45)
+1-05	Thompson Twins	- 	Hold Me Now (4:43)
+1-06	Visage	- 	Fade To Grey (3:49)
+1-07	Belouis Some	- 	Ima',165
+'1-01	Live At The Roxy (Ilsa Gold´s Hands On Yello) (7:23)
+  remix by Ilsa Gold
+1-02	Bostich (Machine Mix) (Westbam´s Hands On Yello) (6:33)
+  remix by WestBam
+1-03	L´Hotel (Long Version) (Carl Cox´s Hands On Yello) (7:31)
+  remix by Carl Cox
+1-04	You Gott',166
+'1-01	Metro Area	 - 	Caught Up (4:21)
+1-02	Julien Jabre	- 	Yalopa (4:12)
+1-03	Frankie Knuckles	- 	It's A Cold World (3:56)
+  featuring Jamie Principle
+1-04	Legowelt	- 	2002 (2:08)
+1-05	Ladytron	- 	Seventeen (The Droyds Mix) (5:42)
+  remix by Droyds, The
+1-',167
+'11 + 10',168
+'11: The Rhythm Divine;',169
+'12'' Version plus Live At The Roxy Hightlights, Dr. Van Steiner Instrumental Version, Tool In A Rose and La Habanera',170
+'12: Yello: Pinball Cha Cha (3:37)',171
+'12” version twice',172
+'13: Yello: On Track (Doug Laurent's First Journey) (7:34);',173
+'14 + 10',174
+'17: Tremendous Pain (Album Version) (3:58); 18: Jingle Bells (Single Version) (2:58);',175
+'18 & 17',176
+'1980 1.  The Winner Takes It All - ABBA  [04:59]
+2.  Boat On The River - Styx  [03:13]
+3.  The Ballad Of Lucy Jordan - Marianne Faithfull  [04:11]
+4.  Take That Look Off Your Face - Marti Webb  [03:01]
+5.  Matador - Garland Jeffreys  [04:44]
+6.  Banana Re',177
+'1a 	Tribantura 	Lack of Sense (Razormaid! Re-edit / Joseph Watt) 	- 	120.0
+1b 	Pluuto 	Isn't It Crazy (Razormaid! Re-edit / Michael Lewis) 	- 	118.0
+2a 	Raze 	Break for Love (Razormaid! Re-edit / Joseph Watt) 	- 	121.0
+2b 	Pet Shop Boys 	I Get Excited (Ra',178
+'2 Track Dee Doo Dee',179
+'2 track oh yeah',180
+'2 x a side',181
+'2: Yello: The Race (3:15);',182
+'3: The Rhythm Divine',183
+'3: Yello: Jungle Bill',184
+'3-fluke mixes',185
+'4: Yello: Bostich (New Life Mix) (3:59);',186
+'4:14 Mix, 3:33 Mix & Ocean Club',187
+'5: Yello: How How;',188
+'6: Rap Race ( Mixed by A. Mozart) (5:48);',189
+'6: Yello: Blazing Saddles',190
+'7: Yello: Bostich (4:33);',191
+'8: Yello: Oh Yeah; 9: Yello: La Habanera;',192
+'8: Yello: The Race',193
+'9: Yello: Oh Yeah',194
+'9: Yello: Tied Up (5:14)',195
+'A	Material	 - 	Praying Mantra (Orb Remix) (17:05)
+  remix by Orb, The
+B	Killing Joke	- 	Democracy (The Russian Tundra Mix) (17:52)
+  remix by Orb, The
+C1	Keiichi Suzuki	- 	Satellite Serenade (Transasian Express Mix) (13:10)
+  remix by Orb, The
+C2	Zodiac Y',196
+'A	State Project	 - 	Empire State (Megamix) (8:21)
+B1	Yello	- 	Vicious Games (4:20)
+B2	New Order	- 	Murder (3:57)',197
+'A: I Love You; B: Heavy Whispers',198
+'A: The Race(3:15); B: Another Race (Magician's Version for Tempest & Cottet) (3:42)',199
+'A: The Race; B: Another Race',200
+'A: Tied Up; B: Wall St Bongo',201
+'A: Vicious Games; B: Blue Nabou',202
+'a1	Afrika Bambaataa & Soulsonic Force	 - 	Planet Rock
+a2	Planet Patrol	- 	Play At Your Own Risk
+b1	Rockers Revenge	- 	Walking On Sunshine
+b2	Jellybean	- 	The Mexican
+c1	Kraftwerk	- 	Trans Europe Express
+c2	Numbers	- 	Computer World 2
+d1	Peech Boys	- 	Don'',203
+'A1	Clubhouse	 - 	I Am A Man Yéké Yéké
+A2	Yazz And The Plastic Population	- 	The Only Way Is Up
+A3	Yello	- 	The Race
+A4	S-Express	- 	Theme From S-Express
+A5	Funhouse	- 	Dancin' Easy
+A6	Steve Clark	- 	You Can Say To Everybody
+A7	Michael Grant	- 	Don't Turn ',204
+'A1	DJ Culture (New Club Mix) (8:28)
+B1	DJ Culture (Remix) (7:19)
+B2	A New Culture Is Born (Intro Edit) (1:55)',205
+'A1	Dr. Van Steiner (Cosmic Baby's Hands On Yello) (5:40)
+  remix by Cosmic Baby
+A2	Bostich (Westbam's Hands On Yello) (3:06)
+  remix by WestBam
+A3	Ciel Ouvert (Jens' Hands On Yello) (5:17)
+  remix by Jens Mahlstedt
+A4	You Gotta Say Yes To Another Excess -',206
+'A1	Human League, The (DUPLICATE 3)	 - 	Don't You Want Me (Extended Edit)
+A2	Dominatrix	- 	The Dominatrix Sleeps Tonight
+A3	Alexander Robotnick	- 	Problemes D'Amour (Dub)
+B1	Yazoo	- 	Situation (Dub)
+B2	Yello	- 	Bostich
+B3	Lime	- 	On The Grid (Re-Mix Dub)
+C',207
+'A1	LaTour	 - 	Blue (Underground Ice Pick Mix)
+A2	Supertronic Co.	- 	Ultra Terra (Introduction)
+B1	Yello	- 	Ciel Ouvert (Jens Remix)
+  remix by Jens
+B2	West Coast Connection	- 	Voodoo Rhythem',208
+'A1	Material	 - 	Praying Mantra (16:58)
+A2	Killing Joke	- 	Democracy (The Russian Tundra Mix) (19:09)
+A3	Keiichi Suzuki	- 	Satellite Serenade (Trans Asian Express Mix) (13:56)
+A4	David A Stewart	- 	Lily Was Here (Space Centre Medical Hum) (7:47)
+  featurin',209
+'A1	Metro Area	 - 	Caught Up
+A2	Thee Maddkatt Courtship (DUPLICATE 5)	- 	Elektrikboy
+B1	Art Of Noise, The	- 	Beat Box
+B2	Chas Jankel	- 	Glad To Know You
+C1	Ten City	- 	Devotion
+C2	Yello	- 	Bostiche
+D1	Electronica	- 	Coke, Sex, Drugs
+D2	Giorgio Moroder	- 	N',210
+'A1	MFSB	 - 	Love Is The Message
+B1	Hugh Masekela	- 	Don't Go Lose It Baby
+B2	Jimmy 'Bo' Horne	- 	Spank
+C1	Prince	- 	Sexy Dancer (Long Version)
+C2	Ashford & Simpson	- 	It Seems To Hang On
+D1	GQ	- 	Disco Nights
+D2	Chaka Khan	- 	Clouds
+D3	Yello	- 	Bostish',211
+'A1	Oh Yeah (Experimental Mix) (5:14)
+A2	Oh Yeah (Video Edit) (3:34)
+B1	Oh Yeah (Plutone Remix) (6:12)
+B2	Oh Yeah (Sun + Moon Mix) (5:18)',212
+'A1	Scraping Foetus Off The Wheel	 - 	The Only Good Christian Is A Dead Christian
+A2	Cabaret Voltaire	- 	Product Patrol
+A3	Test Dept (DUPLICATE)	- 	Total Nervous Phenomonom
+A4	Marc Almond	- 	Love Amongst The Ruined
+A5	Psychic TV	- 	Twisted
+B1	The The	- 	Fl',213
+'A1	Yello	 - 	Vicious Games (4:20)
+A2	State Project	- 	Summerland (3:45)
+A3	Communards, The	- 	Heavens Above (3:50)
+A4	State Project	- 	Empire State (4:16)
+A5	State Project	- 	The Argument (3:34)
+A6	State Project	- 	Dance Floor (1:45)
+B1	State Project	- 	T',214
+'A1	You Gotta Say Yes To Another Excess - Great Mission (Video Mix) (3:58)
+A2	You Gotta Say Yes To Another Excess - Great Mission (Haus Mix) (7:19)
+B	You Gotta Say Yes To Another Excess - Great Mission (UFF Die-12 Mix) (10:55)',215
+'A1
+	
+
+''DON'T LEAVE ME THIS WAY''—The Communards
+Edit by Randy ''Spike'' Dethman & Aron ''Bugsy'' Siegel
+	8:50
+BPM 132
+
+A2
+	
+
+''PLAYING WITH THE BOYS''—Kenny Loggins
+Original Remix by Jellybean - Recreational Edit by Mike Carroll
+	7:40
+BPM 146
+
+B1
+	
+
+''YELLO MEDLE',216
+'A1: (D's Club Remix) (7:26); A2: (D's House Dub) (6:25); B1: (Extended Mix) (7:17); B2: (Tremendous Instrumental Mix) (5:30); B3: (Suite 904 Alternative Vocal) (9:10);',217
+'A1: 18 Carat Love Affair; A2: Voluntary Wishes, Swap It Production; B1: Love Hangover',218
+'A1: A Matter Of Gender; B1: Dogs In The Wild;',219
+'A1: A New Culture Is Born (3:14); A2: The Nightfly (3:53); A3: La Luna (8:38); B1: DJ Culture (8:27); B2: Sundowner (6:13); C1: Mindcrasher (8:28); C2: The Blue Sky (8:08); D1: Sound Of machines (6:0); D2: Wast Your Youth (5:53); D3: The Nightfly (Break R',220
+'A1: Baby; B1: Sacrifice And Be Sacrificed (CH 8032 Mix);',221
+'A1: Beat Fit; A2: Days And Days; A3: Loaded; A4: Last Bullet; A5: Every Last Day; B1: The Sandman; B2: Loose Control; B3: Break For Me; B4: The World Begins To Look Her Age',222
+'A1: Bimbo; B1: Smile On You;',223
+'A1: Blazing Saddles; A2: Blazing Saddles; B1: I Love You; B2: I Love You',224
+'A1: Blazing Saddles; B1: I Love You',225
+'A1: Bostitch(3:35); B1: Base For Alec(2:53)',226
+'A1: Bostitch; A2: She's Got A Gun; B1: Downtown Samba; B2: Daily Disco',227
+'A1: Breakfast; B1: Breakfast Alone;',228
+'A1: Call It Love  (trego snare version ii)6:45; B1: Santiago (Live At The Palladium, New York) 7:00',229
+'A1: Call It Love (4:04); B1: L'Hotel (3:55);',230
+'A1: Call It Love (remix) (6:45); A2: Call It Love (dub) (6:52); B1: Call It Love (extended mix) (7:02); B2: Call It Love (Trego Snare Version) (6:23); B3: L'Hotel (3:57);',231
+'A1: Club Country (6:45); B1: A.G. it's you again; B2: Ulcragyceptemol;',232
+'A1: Club Country; B1: A.G. it's you again',233
+'A1: Colours Will come; A2: Opal Krusch; B1: Look What You've Done; B2: Feels Like The Richtergroove',234
+'A1: Do It (Marky P. & Teri B. Dub) (7:45); B1: Do It (Blessed & Beaten) (9:30);',235
+'A1: Even Dogs In The Wild;',236
+'A1: Fever (single version); B1: Fever in the Shadows (edit);',237
+'A1: Fire To Ice (4:03); A2: The Glamour Chase (4:52); B1: Green Tambourine (3:23) B2: Groovin' With Mr Bloe (3:04)',238
+'A1: Fire To Ice; A2: Fever; A3: Ever Since That Day; A4: Wild And Lonely',239
+'A1: Goldrush (3:48); B1: She's Got A Gun (Live At The Palladium N.Y.) (4:29);',240
+'A1: Goldrush I (6:31); B1: Goldrush II (6:12); B2: She's Got A Gun (live at the palladium, n.y.) (4:20);',241
+'A1: Goldrush I (6:31); B1: Oh Yeah (Dance Mix) (6:25); B2: Goldrush II (6:12);',242
+'A1: Heart Of Glass (Auchterhouse Mix); B1: Heart Of Glass (Auchterhouse Instrumental); B2: Her Only Wish;',243
+'A1: Heart Of Glass; B1: Her Only Wish;',244
+'A1: How How (Dee Doo Dee Mix) (5:52); A2: How How (Dee Doo Dee Dub Mix) (5:55); B1: How How (In Silence Mix) (4:33); B2: How How (Saxophone Mix) (5:21);',245
+'A1: How How (Papa- Who- Ma- Mix) (5:41); A2: How How (Brown Cow Mix) (5:29); B1: How How (Dee Doo Dee Mix) (5:52); B2: How How (The PreMix (By Yello)) (5:54);',246
+'A1: How How (Papa- Who- Ma- Mix) (5:41); A2: How How (Dee Doo Dee Mix) (5:52); A3: How How (Dee Doo Dee Dub Mix) (5:55); B1: How How (The Premix) (5:54); B2: How How (In Silence Mix) (4:33); B3: How How (Drummer's Mix) (5:38);',247
+'A1: How How (The Premix) (5:54); A2: How How (Dee Doo Dee Mix) (5:52); B1: How How (Dee Doo Dee Dub Mix) (5:55); B2: How How (In Silence Mix) (4:33); B3: How How (Saxophone Mix) (5:21);',248
+'A1: I Love You (2:55);',249
+'A1: I Love You (3:11); B1: Rubber West (3:30);',250
+'A1: I Love You (7:03); B1: Heavy Whispers (3:55);',251
+'A1: I Love You (7” Version) (3:07); B1: I Love You (LP Version) (3:14); B2: I Love You (Extended Play Version) (7:02);',252
+'A1: I Love You (extended dance version) (7:04); B1: Heavy Whispers (5:00);',253
+'A1: I Love You (The Emilio Pasquez Rubber Band Mix) (6:03); B1: Blazing Saddles(Latino House Dub); B2: Blazing Saddles(Latinohouse Remix);',254
+'A1: I Love You; B1: Rubber West',255
+'A1: I Want You Back (Original); B1: I Want You Back (Medicine8 Mix); B2: I Want You Back (Medicine8 Dub);',256
+'A1: I Want You Back (Original); B1: I Want You Back (X-PRess 2's 7th Movement Mix; C1: I Want You Back (Medicine8 Mix); C2: I Want You Back (Mediecine8 Dub); D1: I Want You Back (Par-T-One Dub); D2: I Want You Back (Accapella);',257
+'A1: I Want You Back (X-Press 2's 7th Movement Mix) B2: Lazy featuring David Byrne (Freeform Five Remix)',258
+'A1: Interview; B1: Interview',259
+'A1: Jingle Bells (Santa Club Mix) (5:17); B1: Jingle Bells (Movie Version) (4:46);',260
+'A1: Jungle Bill (Big Pig Shuffle) (6:22); B1: Jungle Bill (Space Shuffle) (7:59);',261
+'A1: Jungle Bill (Single Version) (3:50); B1: Blender (Album Version) (4:38);',262
+'A1: Jungle Bill(Big Pig Shuffle)(6:22); A2: Jungle Bill(Ian Tregoning Mix) (8:00); B1: Jungle Bill(Chicken Dive Mix)(8:39); B2: Jungle Bill(Space Shuffle)(7:59)',263
+'A1: La Habanera; A2: Moon On Ice; A3: Call It Love; A4: Le Secret Farida; A5: Hawaiian Chance; B1: The Rhythm Divine; B2: Santiago; B3: Goldrush; B4: Dr Van Steiner; B5: Si Senor The Hairy Grill',264
+'A1: Lazy; B1: I Want You Back; C1: Call That Love; D1: Muzikizum; E1: Palenque; F1: The Ending; G1: Angel; H1: Supasong; I1: Smoke Machine; J1: AC/DC; K/L1: Bits And Pieces (128 BPM)',265
+'A1: Lost Again (3:10); B1: Base For Alec (2:53);',266
+'A1: Lost Again (3:30); B1: Pumping Velvet (3:12);',267
+'A1: Lost Again (7:20); B1: I Love You (7:02) B2: Bostich (n'est-ce pas) (4:30);',268
+'A1: Megamix Version; B1: Mix Version;',269
+'A1: Muzikizum; A2: Supasong; B1: Lazy; B2: Angel; B3: Palenque; C1: I Want You Back; C2: Call That Love; D1: Smoke Machine; D2: AC/DC; D3: The Ending;',270
+'A1: Night Flanger; B1: Bostich;',271
+'A1: Of Course I'm Lying; A2: Oh Yeah (Dance Mix); B1: The Yello Metropolitan Mixdown 1989 Part I; C1: Of Course I'm Lying; C2: Bostich; D1: The Yello Metropolitan Mix Down 1989 Part II',272
+'A1: Oh Yeah (3:05); A2: Oh Yeah (Indian Summer Music) (5:30); B1: Oh Yeah (Dance Mix) (6:25);',273
+'A1: Oh Yeah (3:05); AA1: Oh Yeah (3:05);',274
+'A1: Oh Yeah (3:05); B1: Oh Yeah (4:42)',275
+'A1: Oh Yeah (dance mix) (6:25); B1: La Habanera (5:10); B2: Oh Yeah (indian summer music) (5:30);',276
+'A1: Oh Yeah (Dance Mix) (6:25); B1: Oh Yeah (3:05); B2: Oh Yeah (Indian Summer Music) (5:30);',277
+'A1: Oh Yeah (dance mix) (6:25); B1:La Habanera (5:10); B2: Oh Yeah (indian summer music) (5:30);',278
+'A1: Palm Spring (Palm Spring Club Mix); B1:Palm Spring (Bini & Martini Remix);',279
+'A1: Party Fears Two; B1: Its Better This Way',280
+'A1: Pinball Cha Cha; B1: Smile On You;',281
+'A1: Power Trancefer; A2: Overdose; B1: Frigo – 2.500 Miles To Run; B2: Power Trancefer;',282
+'A1: Pumping Velvet (extended dance version) (5:03); A2: No More Words (extended dance version) (5:46); B1: Lost Again (extended dance version) (7:20); B2: Bostich (extended dance version) (4:30);',283
+'A1: Rubberbandman (Extended Version); B1: Rubberbandman (7” Version); B2: Sweet Thunder',284
+'A1: Rubberbandman (Extended Version); B1: Sweet Thunder;',285
+'A1: Rubberbandman (Single Version) (3:35); B1: Sweet Thunder (5:23);',286
+'A1: She's Got A Gun; B1: Bluehead',287
+'A1: The Race ( The Pits Mix); B1: Oh Yeah (Dance Mix);',288
+'A1: The Race (Extended Version) (13:22); A2: Oh Yeah (3:05); B1: The Race (7” Version) (3:48); B2: Oh Yeah (Dance Mix) (6:25); B3: Another Race (Magician's Version for Tempest + Cottet) (3:42);',289
+'A1: The Race (Extended Version) (13:22); B1: Another Race (Magician's Version for Tempest + Cottet) (3:42);',290
+'A1: The Race (Extended Version) (13:22); B1: Bostich (Reese Uptempo Mix) (5:13); B2: Bostich (Reese Break Beat Mix) (5:51);',291
+'A1: The Race (Extended Version) (13:22); B1: The Race (The Pitx Mix) (6:21); B2: Another Race (Magician's Version for Tempest + Cottet) (3:42);',292
+'A1: The Race (High Octane Mix) (7:45); A2: The Race (Formula One Mix) (7:46); B1: Blazing Saddles (Latinhouse Mix) (6:09); B2: Blazing Saddles (Latinohouse Dub) (3:08); B3: The Race (Spare Parts) (6:24);',293
+'A1: The Race(13:22); B1: La Habanera(5:10)',294
+'A1: The Race(High Octane Mix)(7:45); A2: The Race(Spare Parts)(6:24); B1: The Race(Formula One Mix)(7:46); B2: The Race(Rockamerica Radio Mix)(3:39); B3: I Love You (4:08)',295
+'A1: The Race(Video Mix); B1: The Race(Sporting Mix); B2: Another Race(Magicians Version)',296
+'A1: The Race; B1: Another Race',297
+'A1: The Yellow (Megamix) (12:55); B1: The Yellow (Megamix) (12:55);',298
+'A1: The Yellow Metropolitan Mixdown 1989 Part I (10:58); A2: Of Course I'm Lying (The Truth Is) (5:54); B1: The Yellow Metropolitan Mixdown 1989 Part II (10:13);',299
+'A1: Those First Impressions; B1: Thirteen Feelings',300
+'A1: Tied Up (6:05); A2: Of Course I'm Lying (5:56); A3: 3rd Of June (4:50); A4: Blazing Saddles (3:53); B1: The Race (8:08); B2: Alhambra (3:38); B3: Otto Di Catania (3:20); B4: Tied Up In Gear (3:58)',301
+'A1: Tied Up (Single Edit) (3:19); B1: Wall Street Bongo (3:00);',302
+'A1: Tied Up In Fantasia (6:40); B1: Tied Up In Mind (5:51); B2: Tied Up (In Africa – Part 1) (5:52);',303
+'A1: Tied Up In Gear (Album Version) (3:58); A2: Tied Up In Fantasia (6:50); B1: Tied Up In Africa (Edit) (3:40); B2: Tied Up In Africa (Part II) (6:28);',304
+'A1: Tied Up In Life( Album Version) (6:05); A2: Tied Up In Mind(5:51); B1: Tied Up In Africa (Parts 1) (5:52); B2: Tied Up In African Beats (4:23); B3: Oh Yeah (Album Version) (3:05);',305
+'A1: Tied Up in Life; B1: Tied Up in Gear',306
+'A1: Tied Up In Mind (remixed by Zeo); A2: I Love You; B1: Tied Up In Fantasia (remixed by Zeo)',307
+'A1: Tied Up in Mind; A2: I Love You; B1: Tied Up in Fantasia; B2: Wall Street Bongo',308
+'A1: Tied Up In Red (8:28); B1: Tied Up (6:05); B2: Wall Street Bongo (3:05);',309
+'A1: Tremendous Pain (D's Club Remix) (7:26); A2: Tremendous Pain (D's House Mix) (6:53); A3: Tremendous Pain (Album Version) (3:58); Tremendous Pain (Tremendhouse Vocal Mix) (6:13); Tremendous Pain (Suite 904 Alternative Vocal) (9:10);',310
+'A1: Tremendous Pain (D's House Mix) (5:54); A2: Tremendous Pain (D's Deep Dub) (6:25); B1: Tremendous Pain (Tremendhouse Vocal Mix) (6:13); B2: Tremendous Pain (Tremendhouse Instrumental) (6:13); B3: Tremendous Pain (Suite 904 Alternative Instrumental) (9',311
+'A1: Vicious Games (3:38); A2: Blue Nabou (3:19)',312
+'A1: Vicious Games (6:12); B1: Vicious Games (Instrumental) (4:12);',313
+'A1: Vicious Games (Art Of Trance Remix) (8:07); B1: Vicious Games (Club Mix) (7:05)',314
+'A1: Vicious Games (Belly Trippin Trance Mix) (6:38); A2: Vicious Games (Vicious Radio Mix) (4:34); B1: Vicious Games (Mo's Dirty Ol Dub #1) (7:15); B2: Vicious Games (Vicious Vocal Club Mix) (7:14);',315
+'A1: Vicious Games (Headroom Mix) (6:52); B1: Vicious Games (Da Bomb Mix) (6:59); B2: Vicious Games (B. Blank @ O. Wollschlager Mix) (6:34)',316
+'A1: Vicious Games (vicious remix)7:00; B1:  Live At The Roxy (highlights)10:00',317
+'A1: Vicious Games (Vocal Club Version) (7:05); A2: Vicious Games (Slow Vocal Mix) (6:06); B1: Vicious Games (Hardfloor Dub) (5:48); B2: Vicious Games (Slow Dub Mix) (5:21); C1: Vicious Games (Da Bomb Mix) (6:48); C2: Vicious Games (Blank & Jones Mix) (6:3',318
+'A1: Vicious Games (vocal/remix) (6:45); B1: Vicious Games (vocal/edit) (3:38); B2: Vicious Games (instrumental) (4:06);',319
+'A1: Vicious Games(6:50); B1: Vicious Games(instr)(4:12); B2: Blue Nabou(3:19)',320
+'A1: Waiting For The Loveboat; B1: Schampout;',321
+'A1: Warning (original mix) (6:38); B1: Warning (carlos peron ''why can bodies fly'' remix) (6:18)',322
+'A1: White Car In Germany; B1: The Associate;',323
+'A1: Yello: Bimbo; B1: Renaldo: ??;',324
+'A1: Yello: Bostich; B1: Sylvester: Ring Of Gold;',325
+'A1: You Gotta Say Yes To Another Excess (12” Disco Mix) (4:47); B1: Heavy Whispers (5:00);',326
+'A1; Yello Live At The Roxy N.Y. Dec. '83 (15:00);',327
+'Andrew Weatherall/Sabres Of Paradise Remixes, Too Tough 4 Trego parts 1&2',328
+'audio tracks La Habanera,  Call It Love, Si Senor The Hairy Grill and Oh Yeah plus the video of Oh Yeah',329
+'Audio: 1: Vicious Games(4:20); 2: Desire(6:54); 3: Angel No(3:07); 4: Goldrush(4:21); Video: 5: Goldrush(3:50)',330
+'B',331
+'b/w Another Race,',332
+'b/w Blue Nabou',333
+'b/w Haunted House',334
+'b/w La Habanera[Gold Lettering]',335
+'b/w Let Me Cry4:15 Haunted House4:28',336
+'b/w L'Hotel',337
+'b/w Oh Yeah',338
+'b/w On The Run',339
+'b/w She's Got A Gun',340
+'b/w She's Got A Gun - live at The Palladium New York',341
+'b/w Smile On You',342
+'b/w Sweet Thunder',343
+'Big Pig Shuffle, Space Shuffle, Voodoo Fudge Mix and Chicken Dive Mix',344
+'Big Pig,Too Tough,Chicken Dive,Space Shuffle',345
+'Bimbo / I.T. Splash',346
+'blazing saddles',347
+'Blazing Saddles / I Love You',348
+'Blessed & Beaten Mix, Boris 7'' Mix,  Buddah Pic Mix, Marky P & Terry B Dub, Flow Dub, Boris 7'' Instrumental, Flow Mix and Spinout & Mellow Mix',349
+'Bostich [remix]4:30She's Got A Gun [remix]3:20Downtown Samba2:17Daily Disco4:27',350
+'Bostich Downtown Samba Daily Disco',351
+'Brazil - Xavier Cugat & His Orchestra
+
+Dont Mind If I Do - Bushy
+
+Girl - People Deluxe
+
+Theme From 17 - Kings Of The Wild Frontier
+
+Back By Dope Demand - Naab
+
+Men Are Not Nice Guys - Grand Popo Fc
+
+Ligeirin (Afron Mix) - Heitor
+
+Talco Uno (Tefschawartz S',352
+'by art of trance, ambassador, libra presents taylor, mogwai, yello vs hardfloor, i-ching, conscious, s.o.l., union jack',353
+'C4: Yello: The Race (Video Mix) (3:10);',354
+'Call It Love (extended mix)7:00 L'Hotel3:57 Call It Love (trego snare version)6:26',355
+'CD #1 & #2: 1980-1981
+
+Disc 1
+
+1 Rapture Blondie 05:38 2 Every Little Thing She Does Is Magic The Police 04:21 3 867-5309 / Jenny Tommy Tutone 03:48 4 Brass In Pocket The Pretenders 03:05 5 Whip It Devo 02:42 6 Our Lips Are Sealed Go-Go's 02:47 7 The Brea',356
+'CD 1 
+1.   a-ha - Take On Me 
+2.   Communards - Don´t Leave Me This Way 
+3.   Howard Jones - What Is Love ? 
+4.   Laura Branigan - Self Control 
+5.   P.H.D. - I Won´t Let You Down 
+6.   Peter Cetera - Glory Of Love 
+7.   Simply Red - Holding Back The Year',357
+'CD 1
+ 
+	01. Simple Minds: Don't you
+	02. Heaven 17: Temptation
+	03. The Human League: Beeing boiled
+	04. Yazoo: Don't go
+	05. Soft Cell: Tainted love
+	06. Tears For Fears: Pale shelter
+	07. Visage: Fade to grey
+	08. Talk Talk: Such a shame
+	09. Anne Clark',358
+'CD 1
+
+    * RMB - experience
+    * DJ HOOLIGAN - sueno futuro
+    * GROOVE PARK- hit the bang
+    * TECHNOHEAD - i wanna be a hippy
+    * DIE LANGNASEn - eizzkalt
+    * DUNE - are you ready to fly
+    * JAM & SPOON'S HANDS ON YELLO - you gotta say yes to ',359
+'CD 1
+
+ 
+
+   1. Yé Ké Yé Ké - Mory Kante / 00:04:01
+   2. You're The First, The Last, My Everything - Barry White / 00:04:33
+   3. Johnny Bristol - Hang On In There Baby / 00:03:54
+   4. Cruel Summer – Bananarama / 00:03:34
+   5. Down On The Street – Shaka',360
+'CD 1
+
+ 
+
+01        Mark 'Oh / Tears don't lie       
+
+02        Ororo / Zombie          
+
+03        Moby / feeling so real  
+
+04        Captain Hollywood Project / Flying High        
+
+05        No Limits / Logical Song        
+
+06        Sparks / When Do',361
+'CD 1
+
+01     Sweet / Love Is Like Oxygene     6:51
+02     Elton John / Crocodile Rock     3:54
+03     Barry White / You're The First, My Last, My Everything     4:31
+04     Carpenters / For All We Know     2:33
+05     Commodores / Easy     4:15
+06     J.J',362
+'CD 1
+
+01. Look Who's Talking (Long) Dr. Alban 05:24 02. Don't Turn Around Ace Of Base 03:50 03. Rock My Heart (Radio Mix) Haddaway 04:11 04. Love Is Magic Loft 03:45 05. Think About The Way (Radio Mix) Ice Mc 04:19 06. Renaissance (Radio Mix) M People 03:',363
+'CD 1
+01.Start Me Up (Radio Edit)- Salt 'N' Pepa
+02.Who's Fooling Who - Double You
+03.My Destiny - Lionel Richie
+04.Movin' On - Bananarama
+05.Hypnotized - Clubland
+06.Mr. Loverman - Shabba Ranks
+07.Ain't No Man - Dina Caroll
+08.Sing - Vivienne McKone
+09.Ta',364
+'CD 1
+Bill Laswell / Pete Namlook „Arena“
+Nihilist „Milk Bar“
+Alphawezen „System 1“
+Genuine „Wandering around, Lost“
+Jam & Spoon „You got to get in“
+Jam & Spoon „To get out“
+Amphotic „Spacetalk“
+Nihilist „World in a shell“
+Nothingface „Gender Airlines“
+Chi',365
+'CD 1/ 80’S INFLUENCED:
+
+ 
+
+            THE DISCO BOYS INTRO
+
+            TONKA „NEVER“
+
+            GRANT NELSON „SWITCH“
+
+            MILK & SUGAR „LIFT ME UP“
+
+            FUTURE FUNK “ROAD TRACK”
+
+            JACKY S. “KNOCK ON WOOD”
+
+            DB BO',366
+'CD 1:
+
+Smokie: Don' play that game with me
+Maggie Reilly: Wait
+Tom Cochrane: Life is a highway
+Kim Wilde: Who do you think you are?
+Londonbeat: Lover you send me colours
+Jennifer Warnes: Rock you gently
+Jimmy Nail: Ain't no doubt
+Bad Boys Blue: I totally ',367
+'CD 1:
+ABC - The Look Of Love ( Part One )
+Visage - Fade To Grey
+Captain Sensible - Wot
+Howard Jones - What Is Love?
+Thomson Twins : Doctor Doctor
+Kajagoogoo With Limahl - Too Shy
+Culture Club - Time (Clock Of The Heart)
+Cyndi Lauper - Girls Just Want To H',368
+'CD 1Leftfield „Melt“Andy Bolleshon „Air Walk“
+Deja-Move ''Cisum to all women“
+Denis Gökdag ''Elusive“
+Brian Eno & Peter Schwalm ''Like Pictures Pt. 2“
+Alpha ''Over“
+Yello ''Distant Mirror“
+Nor Elle ''Orbital Touring“
+Future Sound of London ''In a state of perman',369
+'CD 2: 8: Yello: I Love You;',370
+'CD ONE : 1. Radio Ga Ga - Queen... 2. I'll do anything for love - Meat Loaf... 3. Live and let die - Guns n' Roses... 4. I surrender - Rainbow... 5. Turn it on again - Genesis... 6. Pinball wizard - Elton John... 7. Race - Yello... 8. Lust for life - Iggy',371
+'CD ONE:TECHNO NIGHTS
+
+The Shamen - Destination Eschaton (Hardcore Vocal Mix)
+David Holmes - Minus 61 in Detroit
+The Chemical Brothers - Leave Home
+Dave Clarke - Winter (Armani Mix)
+Red Snapper - Hot Flush
+The Sabres of Paradise - Smokebelch II (Beatless M',372
+'CD: 1 1.Atlantic City 2.Getting Off 3.Chemical Island 4.Death Jump 5.Bathtub Salesman 6.Recoveries 7.The Letter 8.San Antonio 9.Sausage Pogo 10.Ten Minutes 11.Stopped CD: 2 1.An Other Soap 2.Die Tage der Mumiensammler 3.Lebt wohl 4.Der Tod gegen den Tod 5',373
+'CD1 :
+1. Soft Cell - Tainted Love
+2. Visage - Fade To Grey
+3. Yazoo - Don't Go
+4. Heaven 17 - Temptation
+5. Frankie Goes To Hollywood - Relax
+6. The Human League - Being Boiled
+7. Ultravox - Vienna
+8. Duran Duran - The Reflex
+9. Tears For Fears - Pale She',374
+'CD-1
+
+ 
+
+   1. B.B.E.-Flash / B B E / 00:07:50
+   2. Vigo-...To Be House / Vigo / 00:08:07
+   3. Funky Green dogs-Fired Up! / Funky Green Dogs / 00:04:00
+   4. Marc Farris-Don't Leave Me This Way / Marc Farris / 00:05:03
+   5. Sequential one-My Love Is Ho',375
+'CD1
+1)Yazz and the Plastic Population:The Only Way is up
+
+2)Womack and Womack:Teardrops
+
+3)Erasure:A Little Respect
+
+4)The Christians:Harvest for the World
+
+5)Hue and Cry:Ordinary Angel
+
+6)UB 40 with Chrissie Hynde:Breakfast in Bed
+
+7)Robert Palmer:She ma',376
+'CD1
+1. Weather With You -- Crowded House
+2. Valerie -- Steve Winwood
+3. Addicted To Love
+4. Everybody's Talkin' -- The Beautiful South
+5. Brown Eyed Girl -- Van Morrison
+6. American Pie (Part 1) -- Don McLean
+7. The Heat Is On -- Glenn Frey
+8. Walking In ',377
+'CD1: 1.Carlos Peron-Le Nil Blanc, 2.Loreena McKennitt-Full Circle, 3.Cherche Lune-Dark Eyes, 4.Phallus Dei-Insignificance,5.Dreadful Shadows-Funeral Procession,6.Children of no return-Sheryl, 7.Passion Noire-Cry out Loud, 8.The Moon seven times-Knock, 9.L',378
+'CD1: 1:Space Track - das raumschiff tanzt 3:50 min; 2:Snap - exterminate 4:13 min; 3:B.G.Prince of Rap - can we get enough 4:00 min; 4:Legacy of Sound - happy 6:19 min; 5:Dance Two Trance - p-ower of american n.atives 3:51 min; 6:U96 - loves sees no colou',379
+'CD1: 13; 7: The Rhythm Divine CD2: 10',380
+'CD1: 16; CD2: 11',381
+'cd1-01	Bob Marley & The Wailers	 - 	Sun Is Shining
+cd1-02	Beanfield	- 	The Season (Swag's Vocal Mix)
+  remix by Swag
+cd1-03	Afterlife	- 	Cry (Original Version)
+cd1-04	Los Olvidados	- 	Cinematic Sundown
+cd1-05	Jazz Vandals, The	- 	Summertime (Kandi's Cut D',382
+'CD1-01	Depeche Mode	 - 	New Dress (Razormaid Mix) (6:54)
+  remix by Razormaid
+CD1-02	Deutsch Amerikanische Freundschaft	- 	The Gun (Razormaid Mix) (7:35)
+  remix by Razormaid
+CD1-03	Dormanu	- 	Taboo (Razormaid Mix) (7:25)
+  remix by Razormaid
+CD1-04	Joe M',383
+'CD1-01	Simple Minds	 - 	Promised You A Miracle (4:19)
+CD1-02	Human League, The (DUPLICATE 1)	- 	Love Action (I Believe In Love) (3:49)
+CD1-03	ABC	- 	The Look Of Love (3:28)
+CD1-04	Visage	- 	Fade To Grey (3:40)
+CD1-05	Yazoo	- 	Situation (5:44)
+CD1-06	Alpha',384
+'CD1-01	Technohead	 - 	I Wanna Be A Hippy (3:16)
+CD1-02	Interactive	- 	Tell Me When (Radio Mix) (3:43)
+CD1-03	Scooter	- 	Endless Summer (Radio Edit) (3:51)
+CD1-04	Cherry Coke	- 	No Hagas El Indio, Haz El Cherokee (Original Version) (4:06)
+CD1-05	WestBam, K',385
+'Charly Lownoise & Mental Theo > Stars ; RMB > Experience (Enhanced Version) ; Plutone's Hands on Yello > Oh yeah (Experimental Mix) ; Mark 'Oh > I can't get no (long Version) ; Perplexer > Love is in the air ; System Shock > Give yourself ; Marusha > Deep',386
+'Chicken Dive Mix',387
+'commando leopard'':single version 3.00/war dance version 5.00/metal extended version 7.00',388
+'Desire (extended version)7:00 Oh Yeah (indian summer music) [''the stella suite part 2'']5:30',389
+'different remix',390
+'DISC 1 HOME:
+1. Charge!
+2. Walk Like An Egyptian - Bangles
+3. Freeway Of Love - Aretha Franklin
+4. Fun, Fun, Fun - The Beach Boys
+5. We Built This City - Starship
+6. I Feel Good, (I Got You) - James Brown
+7. Finally - CeCe Peniston
+8. Play That Funky Musi',391
+'Disc 11.ATB - Sunset Girl (Limited Club Mix Edit) 2.Chicane - Daylight (Album Version) 3.Voodoo & Serano - Give Me The Power (Radio Club Mix) 4.Tiësto - Traffic (Radio Edit) 5.Kate Ryan - Scream For More (Radio Edit 2002) 6.Tomcraft - Brainwashed (Call Yo',392
+'Do It 3.11 (single version)/Do It (instrumental version) 3.07',393
+'Do It Promo Version,  How How Excerpt, Tremendous Pain Excerpt, I..I'm In Love Excerpt From Promo Version  & Night Train Excerpt',394
+'DR VAN STEINER INST',395
+'Dr Van Steiner Instrumental and Tool In Rose',396
+'D's Club Remix, D's House Mix, LP Version, Tremendhouse Vocal Mix and Suite 904 Alternative Vocal',397
+'Dubmental, Dub Mix, Extended Radio & Radio Mix',398
+'Exis - The Hunt (Europe)
+
+- Sielwolf - Nachstrom (Europe)
+
+- MDMA - Scattered Bones (Europe)
+
+- Fred Szymanski - Variable Sawdust (USA)
+
+- Exorbitant Species - The Noise is 238,333m² (USA)
+
+- Interrupted Transmission - Star sprangled banner (USA)
+
+- Sielw',399
+'extended mix',400
+'extended Version',401
+'Extended Version & Sweet Thunder',402
+'Extended Version, Another Race Magician's Version  video version of The Race',403
+'feat Shirley Bassey 12'' Version + Live At The Roxy Original Mix, gatefold picture sleeve',404
+'features: Yello: There's No Reason',405
+'Featuring Cash Crew, Yellow Magic Orchestra, Suzy Q, Visage, Funky Four Plus One, Machine, Yello, Jimmy Spicer, Art Of Noise, Unlimited Touch, Ryuichi Sakamoto & T-La Rock. Soul Jazz Records',406
+'featuring Shirley Bassey b/w Dr Van Steiner',407
+'Flag + 10: Oh Yeah; 11: L'Hotel; 12: Jungle Bill; 13: The Rhythm Divine; 14: Jingle Bells; 15: Do It; 16: She's Got A Gun;',408
+'Flight Over Peru
+Marguerita
+The Detective
+Los Voladores
+Stanley & Livingstone
+Big City
+The Magician
+Danza Peligrosa
+Stardust',409
+'Fords 12'' Mix, Fords Edit, X-Rated Mix, Morales Mix, Dub Me Mix and Techno Mix!',410
+'Go
+I Can Drive
+Singles Party (Happy New Year)
+Do I Scare You (Remix) (Featuring Billy Mackenzie)
+Can U Wait That Long?
+Oh Dear
+Excuse Me John
+Dial ''F'' For Freedom
+Opportunity Knockers (Good Times Come And Go)
+I Never Could Sing Anyway
+Do I Scare You (Orig',411
+'Goldrush I6:31 Goldrush II6:12 She's Got A Gun (live at the palladium, n.y., 4 sep 1985)4:20',412
+'hallu sea nation,original',413
+'Hard Express Rhythm Masters + D.Laurent's Dub in fold out pack with room for other mixes',414
+'high octane,formula one,blazing saddles-latinhouse remix & dub,the race spare parts mix',415
+'I Believe In You (Life In A Dolphinarium Mix) / Flight X (Long Flight Mix) / I Believe In You (Loop Mix).',416
+'I Love You (alternate mix?)3:11Lost Again (alternate mix?)3:30',417
+'I Love You (extended dance version) [mix unconfirmed]7:02No More Words3:57',418
+'I Love You (extended dance version)7:00Swing4:00Bostich4:00',419
+'I Love You (extended dance version)7:00Swing4:00Bostich4:00 ''Extended Dance Version For Ladies and Gents''',420
+'I Love You 4:08,Swing 3:30,Vicious Games 3:50,Oh Yeah 3:04',421
+'inc Ext Mix, Instrumental, D's House Mix and D's Deep Dub Mix,',422
+'inc Suite 904, Palace Mix, Bible Mix and Hell Mix,',423
+'incl 3 mixes of The Race incl 13:22s Mix plus 3 mixes of Bostich',424
+'incl 4 remixes',425
+'incl Oh Yeah',426
+'incl Oh Yeah & L'Hotel',427
+'incl Version 2, Dr. Van Steiner – Instrumental & Yello Feat. Shirley Bassey – 'The Rhzthm Divine – Original 7” Version',428
+'incl. Art Of Trance Mix & Club Mix',429
+'incl. Bangin' Mix, Planet Trax Yello Dubmarine Mix & Original Mix',430
+'incl. Call It Love (4:04);',431
+'incl. Daily Disco',432
+'incl. Extended Remix Version, Edited Version & Instrumental Version',433
+'incl. Goldrush ( 3:48);',434
+'incl. Jungle Bill (Essential Version) (3:39);',435
+'incl. La Habanera (Album Version) (5:11);',436
+'incl. Long Version & chicken Dive Mix',437
+'incl. Oh Yeah (2:54);',438
+'incl. The Race (3:15);',439
+'incl. The Race (3:19);',440
+'incl. The Race (Album Version) (8:08);',441
+'incl. Tied Up',442
+'incl. Tied Up (HouseMix)',443
+'incl. Tied Up In Australia',444
+'incl. To The Sea (Southern Mix) (3:48);',445
+'incl. Wall Street Bongo',446
+'incl: Unblievable (3:35)',447
+'include Tarwater, Add N To X, Yello, Saint Etienne, Royksopp and many more',448
+'includes 13:22 Version, plus Oh Yeah Dance Mix and Another Race',449
+'includes Jingle Bells (Movie Version) (4:47)',450
+'includes Machine Mix, Rush Push Mix and Video Cut Version',451
+'includes The Race 3.15 [single version], Hawaiian Chance 4.18, Tied up 3.32 [single edit], Moon on Ice 4.12, Dr. Van Steiner 4.18, Goldrush 4.20.',452
+'including bonus 12'' of The Stella Suite Part 1 Desire (extended version)
+7:00 Oh Yeah (indian summer music) [''the stella suite part 2'']5:30 XS (first ever version)',453
+'including Breaks, Beats & Loops - The How How Samples',454
+'including Gary Numan, Erasure, Visage, Art Of Noise, Tears For Fears, Japan, Sparks, Yello and more',455
+'including Wackside & Oliver Moldan Mixes',456
+'Incognito feat. Jocelyn Brown: Always There
+Adeva: In and out of my life
+Black Box: Everybody everybody
+Culture Beat: Mr. Vain
+Corona: The Rhythm of the Night
+Whigfield: Saturday Night
+Double You: Please don't go
+Snap: The Power
+Haddaway: Rock my heart
+Li',457
+'Innersphere - ''Out Of Body'' (Sabrettes)
+Depeche Mode - ''No Good'' (Mute)
+BBG - ''Just Be Tonight'' (white label)
+En featuring Ceevox - ''That Sound'' (Menthol)
+LSG - ''Netherland'' (Hooj Choons)
+Sandman - ''Coimbra'' (XL)
+Blue Amazon - ''No Other Love'' (Jackpot)
+An',458
+'Jam & Spoon, Jens Mahlstedt, Moby, 
+Westbam & Cosmic Baby',459
+'Kites 4.46 [full length 12'' version]/A Girl Named Property 5.25',460
+'LA HABANERA',461
+'LATINHOUSE REMIX LATINHOUSE DUB I love you-emilio pasquez rubberband ,I love you- the new mix',462
+'LIAISONS DANGEREUSES Los Ninos des Parque / YELLO Bostich / MALARIA Kaltes klares Wasser / FAD GADGET Lady Shave / JOHN FOXX Underpass / TUBEWAY ARMY Are Friends Electric / SKI PATROL Agent Orange / THROBBING GRISTLE United / VISAGE Fade To Grey und viele',463
+'LIVE AT THE ROXY',464
+'Lost Again7:20 Base For Alec (remix)2:53 No More Words5:46 Pumping Velvet (remix)5:00',465
+'MARK OH – Tears don’t lie, DUNE – Hardcore Vibes, MEMBERS OF MAYDAY – We are Different, WESTBAM’S HANDS ON YELLO – Bostich, MARUSHA – Raveland, SUNBEAM – Outside Wordl, INTRANCE – Mosquito, RMB – Redemption, RAVER’S NATURE – Take off, GENLOG – Eiskalt, PE',466
+'Marky P & Teri B Dub (twice!), Single Version, Blessed & Beaten & Vicious Games – Belly Trippin' Trance Mix',467
+'Marky P & Teri B Dub and Instrumental plus  Vicious Games Belly Trippin Trance Mix',468
+'mit nana mouscouri _ schmetterlinge
+
+yello rubberbandman
+
+elton john nikita
+
+soft cell marc almond tainted love
+
+nina hagen berlin u.a.',469
+'Movie Version as featured in Disney's The Santa Clause and Santa Club Mix',470
+'New Life Mix, Savage Mix, Uptempo Mix,  Break Beat Mix, Respect Mix and Original Version',471
+'ofra haza ( galbi ), bappi lahiri ( habiba ), megahip ( that girl steals ), 
+mandy ( i just can't wait ), sinnita ( i don't belive in miracles ), t.coy ( i like to listen ),
+ los reyes ( bamboleo ), liasons dangereuses ( los ninos del parque ), mandy ( sa',472
+'Oh Yeah (dance mix)6:25  Oh Yeah3:05 Oh Yeah (indian summer music)5:30',473
+'OH YEAH .',474
+'Oh Yeah Dance Mix, Metropolitan Mixdown Parts 1 & 2 & Bostich',475
+'On Track 8 Mixes',476
+'On Track Doug Laurent's First Journey 7:31, 
+The Race Brake Light Mix 6:50 and More Rockabilly Mix 6:14',477
+'Oni Wytars - A Virgen Mui Groriosa
+
+Oswald - La Maitre De La Maison
+
+Die Streuner - Tourdion
+
+Adaro - Prijon Forte
+
+Vox - Deus Ex Machina
+
+Galahad - The Ring
+
+Van Langen - Eyn Morgenländisch Tänzelynn - Für Doreen
+
+Dies Natalis - Rain
+
+Blackmore's Night -',478
+'Original Radio, Sounds Of Life Radio,  Dub and Club Mixes plus Godkind's Different Class of Brass Mix!',479
+'Papa Who Ma Mix, Brown Cow Mix,  Drummers Mix, In Silence Mix, Single Version, The Premix By Yello & Dee Doo Dee Mix',480
+'Papa Who Ma Mix; Dee Doo Dee Mix; Dee Doo Dee Dub Mix; Brown Cow Mix',481
+'papa who ma,brown cow,dee doo dee,premix',482
+'Pinball Cha Cha5:50Bostich n'est ce pas4:30',483
+'Pinball Cha Cha5:50Homer Hossa5:15',484
+'Prophets Of Rage Electro Mix, S And M Blue Bomb Mix,  Hallquist & SAIN Deep Dub, Plextone Mix & Carl Craig Mix, great mixes',485
+'Prophets Of Rage Fat Free Mix, Mars Hill's Mix, Hallquist & S.I.A.N Vocal',486
+'Pumping Velvet (extended dance version) 5:03 No More Words (extended dance version)5:46 Lost Again (extended dance version)7:20 Bostich (extended dance version)4:30',487
+'Pumping Velvet (extended dance version)5:03 No More Words (extended dance version)5:46 Lost Again (extended dance version)7:20 Bostich (extended dance version)4:30',488
+'Pumping Velvet (extended dance version)5:03 No More Words (extended dance version)5:46 Lost Again (extended dance version)7:20 Bostich (extended dance version)4:30,custom stickered slv Remix EP',489
+'Record 1:
+
+Side 1:
+
+    * 1. Tabbis Nukkerli - ''Hei, was Soll I Mache?'' (2:53)
+    * 2. Troppo - ''Troppo for You'' (Pere Ubu/Troppo) (4:44)
+    * 3. Nasal Boys - ''Hot Love'' (3:07)
+    * 4. Kleenex (Marlene Marder, Klaudia Schifferle, Lislot Hafner, Regula ',490
+'remix',491
+'remixes',492
+'Rockamerica Radio,Swiss,Oh Yeah',493
+'Rubberbandman 3.35/Sweet Thunder 5.24',494
+'Sanny X's 10-track megamix inc Desire, Call It Love, I Love You, Vicious Games, Lost Again etc on promo',495
+'Santa Club Mix',496
+'Santa Club Mix & Movie Version',497
+'Scorpions - Alien nation
+Doro - Bad blood
+Nina Hagen - Revolution Ballroom
+Rausch - Supermarket
+Rainbirds - Devil's dance
+Die Shivas - Anyway
+Thomas Fehringer - Liebe aus Glas
+Stephan Remmler - Mein Freund ist Neger
+Memphis Blue - Every little thing
+Maxim',498
+'Seite A:
+Robin Gibb - Juliet
+Eurythmics - Sweet Dreams (are made of this)
+indeep - When Boys Talk
+Divine - Shot Your Shot
+Tears For Fears - Pale Shelter
+Big Country - Fields Of Fire
+Arabesque - Sunrise In Your Eyes
+Lime – Guilty
+Seite B:
+Divine - Shake It',499
+'Sensation (No More Words) 3.13 [NME version] (Mighty Reel 004)',500
+'SHE'S GOT A GUN',501
+'SIDE ONE
+
+BOBBY BROWN - ''ON OUR OWN''
+
+INNER CITY - ''DO YOU LOVE WHAT YOU FEEL''
+
+DE LA SOUL - ''SAY NO GO''
+
+JODY WATLEY - ''FRIENDS''
+
+HEAVY D & THE BOYZ - ''WE GOT OUR OWN THANG''
+
+JAMES INGRAM - ''IT'S REAL''
+
+SIDE TWO
+
+YELLO - ''BLAZING SADDLES''
+
+MILLI VANILLI ',502
+'Single Version and Movie Version, 'Santa Clause',',503
+'Single Version, Fluke Radio Edit, Papa-Who-Ma Mix, The Premix By Yello, Dee Doo Dee Mix, Breaks Beats & Loops and In Silence Mix, picture sleeve)',504
+'Single Version, Movie Version and Santa Club Mix',505
+'SNUB TV PROMO - 'Fever In The Shadows' / TOP OF THE POPS - 'Those First Impressions' / ORS FEATURE - Billy takes us on a tour of his hometown of Dundee + exclusive full orchestra live performance of 'Breakfast' / WHISTLE TEST 1985 FEATURE - Ronnie Scotts,',506
+'songs from the following bands: Screaming Blue Messiahs / Sudden Sway / Associates / Brilliant',507
+'Sounds Of Life Radio, Dub & Club Mixes plus Goldkind's Mix',508
+'Soundtrack - Terra-X (Disc 1)
+Anthony Phillips - Aurora            
+Brian Eno-Daniel Lanois - Sirens     
+Ed Ernst - Rafts                     
+Jarvis-Dowling Burrage - Lost Tribes 
+Joe Mubare - This Man                
+Kristian Schultze - Chorus         ',509
+'Squeeze Please: 5 Mixes',510
+'Steve B-Zet Mix',511
+'Suicide - Ghost Rider
+Soft Cell - Memorabilia
+Matt Johnson - Red Cinders In The Sand
+Holgar Hiller - Jonny (du Lump)
+Erasure - Senseless
+Thomas Leer - Letter From America
+D.A.F. - Kebab Traume
+Cabaret Voltaire - Baader Meinhof 	Holgar Czukay - Hey Baba Re',512
+'Suite 904 Extended, Bible Mix, Bobby D'Ambrosio's House & Steve Mac's Extended Mix',513
+'Tears For Fears, New Order, Yello, Black, Level 42, The Jam, Iggy Pop, Bronski Beat, ABC…',514
+'The Evening's Young & There Is No Reason',515
+'The Grande/Votre Dame Mix  ''AA'' side b/w The Notre Dame Mix',516
+'The House of Love, James, Yello, Electribe 101, Walker Bros, The Hummingbirds, Ruby Blue, The Lilac Time, Dusty Springfield, Tom Verlaine, The Fall, Cameo',517
+'The Pits Mix,The Sporting Mix and Oh Yeah Dance Remix',518
+'The PreMix by Yello, Brown Cow Mix & Drummers Mix',519
+'THE RACE',520
+'The Race / Bostitch',521
+'The Race 13.22 [extended]/La Habanera 5.10',522
+'The Race 13.22/Oh Yeah 3.05/The Race 3.15/Oh Yeah (Dance Mix) 6.25/Another Race 3.42',523
+'The Race 3.15/Bostich (Reese Respect Mix) 2.18 [remix by Kevin Saunderson]',524
+'THE RACE-SPORTING MIX,ANOTHER RACE',525
+'The Roxy Cut + tracks by Marc Almond, The The, Psychic TV etc,+ inner sleeve, insert & 'file'',526
+'The Yello Metropolitan Mix Down 1989 Part II',527
+'The Yello Metropolitan Mixdown 1989 Part 1 and Oh Yeah',528
+'The Yello Metropolitan Mixdown 1989 Parts 1 & 2',529
+'Tied Up In Life, Tied Up In Red and Wall Street Bongo',530
+'Tied Up In Red and Tied Up',531
+'Tied Up In Red, Wall Street Bongo & Tied Up',532
+'Tony Carey ''Room With A View''
+
+Tanita Tikaram ''Twist In My Sobriety''
+
+The Four Tops ''Loco In Acapulco''
+
+Whitney & Cissy Houston ''I Know Him So Well''
+
+The Art Of Noise feat. Tom Jones ''Kiss''
+
+Toni Childs ''Stop Your Fussin'''
+
+Enya ''Orinoco Flow''
+
+Yello ''Tie',533
+'Tracklist CD 1
+
+1. Mixed Emotions - Just for you
+
+2. Nicki - I bin a bayerisches Cowgirl
+
+3. Chris Norman - Broken Heroes
+
+4. Kylie Minogue - I should be so lucky
+
+5. Erste Allgemeine Verunsicherung - Küss die Hand schöne Frau
+
+6. Maxi & Chris Garden - Li',534
+'Tracks, Human League 'Sound Of The Crowd', Soft Cell 'Memorabilia', Japan 'Life In Tokyo', Propaganda 'Dr Mabuse', Visage 'Fade To Grey', Devo 'Whip It', Simple Minds 'I Travel', New Order 'Everything's Gone Green', Sparks 'No 1 Song In Heaven', Blancmang',535
+'Uff Die 12 & Haus Mixes',536
+'Version I & II',537
+'Vicious Games (extended remix) [''vocal/remix'']6:45  Vicious Games [''vocal/edit'']3:38 Vicious Games (instrumental)4:06',538
+'Vicious Games (extended remix) [''vocal/remix'']6:45 Vicious Games [''vocal/edit'']3:38 Vicious Games (instrumental)4:06',539
+'Vicious Games (extended remix)6:46 Vicious Games (instrumental)4:12',540
+'Vicious Games (vicious remix)7:00 Live At The Roxy (highlights)10:00',541
+'Vicious Games / Blue Nabou',542
+'Voodoo Fudge Mix',543
+'Wackside Tweaker Mix 6:46 & Dub Mix 5:41, Oliver Moldan Vocal Remix 7:54 & ''Dub-Dance'' Remix 8:26, De-Phazz Mix 4:11, Original Radio Mix 3:12 & Sounds Of Live Club Mix 6:55',544
+'Yello ''The Race''Robin Gibb ''Juliet''Kajagoogoo ''Too Shy''Alphaville ''Big In Japan''Tears For Fears ''Shout''Europe ''The Final Countdown''John Farnham ''Your The Voice''Mel & Kim ''Respectable''Milli Vanilli ''Girl You Know It's True''Bobby McFerrin ''Don't Worry, Be H',545
+'Yello In one go (Razormaid Medley) 11´09'' Vicious Games (Razormaid Mix) 6´28'' On Usound Megamix 12´55''',546
+'YELLO MEGAMIX-MEGAMIXER SANNY X/// EURYTHMICS-BEETHOVEN-REMIXED BY DAKEYNE/// MICHAEL JACKSON-SPEED DEMON REMIXED BY BEN LIEBRAND/// POP MIX MEGAMIXER BIZZIE BEE/// LIGHT& SOUND-MEGAMIXER MIKE GRAY///',547
+'Yello Metropolitan Mix Down 1989 Part II and Bostich',548
+'Yello Premix, Papa Who Ma Mix, Dee Doo Dee Mix,  Brown Cow Mix, Drummers Mix and In Silence Mix, plus Vicious Games Belly Trippin Trance Mix  and Do It Marky P & Teri B Dub',549
+'YELLO THE MIXES',550
+'Yello: Bostitch b/w The Mothmen: Temptation',551
+'You Gotta Say Yes To Another Excess (12'' disco mix) [unlabeled]4:56Desire For Desire4:13',552
+'You Gotta Say Yes To Another Excess; 3 Mixes',553
+'Zebra + 12: Suite 904 (Single Version); 13: How How; 14: How How; 15: How How; 16: How How; 17: Suite 904; 18: Suite 904;',554
