@@ -1754,7 +1754,7 @@ LEFT OUTER JOIN r_addresses on r_addresses.address_id = r_persons.person_address
 //returns 7 rows
 
 //this works
-SELECT --band_name
+SELECT --band_name..
 --,
 base_name,track_real_name,track_length,track_version,track_work_done
 ,lyrics
